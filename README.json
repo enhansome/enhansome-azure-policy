@@ -1,0 +1,589 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Community Articles Leaderboard"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "azure/azure-policy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Open Policy Agent",
+            "last_commit": "2026-08-07T23:44:46Z",
+            "owner": "Azure",
+            "repo": "azure-policy",
+            "stars": 1688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "azure/community-policy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Open Policy Agent",
+            "last_commit": "2026-07-16T00:07:48Z",
+            "owner": "Azure",
+            "repo": "Community-Policy",
+            "stars": 709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "azure/enterprise-azure-policy-as-code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-08-13T05:25:39Z",
+            "owner": "Azure",
+            "repo": "enterprise-azure-policy-as-code",
+            "stars": 549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "azure/azure-landing-zones-library",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-08-13T06:08:04Z",
+            "owner": "Azure",
+            "repo": "Azure-Landing-Zones-Library",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "azure/policy-compliance-scan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-10T05:26:21Z",
+            "owner": "Azure",
+            "repo": "policy-compliance-scan",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "azure/manage-azure-policy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-02-07T16:57:16Z",
+            "owner": "Azure",
+            "repo": "manage-azure-policy",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "azure/azurepolicyagents",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-03-30T21:56:50Z",
+            "owner": "Azure",
+            "repo": "AzurePolicyAgents",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "microsoft/azurepolicytestframework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2024-01-13T06:21:01Z",
+            "owner": "microsoft",
+            "repo": "AzurePolicyTestFramework",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "azure-samples/aca-azure-policy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Bicep",
+            "last_commit": "2023-09-12T19:07:10Z",
+            "owner": "Azure-Samples",
+            "repo": "aca-azure-policy",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "azure/regulatory-compliance-initiatives",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HCL",
+            "last_commit": "2024-04-25T10:43:53Z",
+            "owner": "Azure",
+            "repo": "regulatory-compliance-initiatives",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Microsoft Repositories and Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "julianhayward/azure-mg-sub-governance-reporting",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-08-04T11:13:47Z",
+            "owner": "JulianHayward",
+            "repo": "Azure-MG-Sub-Governance-Reporting",
+            "stars": 979
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "globalbao/azure-policy-as-code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2024-04-20T04:59:58Z",
+            "owner": "globalbao",
+            "repo": "azure-policy-as-code",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "salesforce/cloud-guardrails",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HCL",
+            "last_commit": "2025-05-01T17:28:45Z",
+            "owner": "salesforce",
+            "repo": "cloud-guardrails",
+            "stars": 183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gettek/terraform-azurerm-policy-as-code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2025-11-15T20:32:57Z",
+            "owner": "gettek",
+            "repo": "terraform-azurerm-policy-as-code",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tyconsulting/azurepolicy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-03-08T03:11:49Z",
+            "owner": "TaoYang-Cloud",
+            "repo": "azurepolicy",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fawohlsc/azure-policy-testing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-01-18T11:12:37Z",
+            "owner": "fawohlsc",
+            "repo": "azure-policy-testing",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jimgbritt/azurepolicy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2023-03-14T20:17:01Z",
+            "owner": "JimGBritt",
+            "repo": "AzurePolicy",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "matthiasguentert/azure-naming-convention-initiative",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Bicep",
+            "last_commit": "2025-09-26T15:45:10Z",
+            "owner": "matthiasguentert",
+            "repo": "azure-naming-convention-initiative",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "andrewmatveychuk/azure.policy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Bicep",
+            "last_commit": "2025-11-03T13:00:37Z",
+            "owner": "andrewmatveychuk",
+            "repo": "azure.policy",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "faridabharmal/azuregovernance",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-07-09T15:36:09Z",
+            "owner": "faridabharmal",
+            "repo": "AzureGovernance",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ricmmartins/azure-governance-made-simple",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-20T19:10:38Z",
+            "owner": "ricmmartins",
+            "repo": "azure-governance-made-simple",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tyconsulting/azure.policy.monitor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Bicep",
+            "last_commit": "2023-01-16T09:14:42Z",
+            "owner": "TaoYang-Cloud",
+            "repo": "azure.policy.monitor",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "robinchapas/converttopolicy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2022-05-16T23:37:17Z",
+            "owner": "robinchapas",
+            "repo": "ConvertToPolicy",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jannemattila/azure-policy-evaluator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-01-13T13:50:32Z",
+            "owner": "JanneMattila",
+            "repo": "azure-policy-evaluator",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kudelskisecurity/azure-policy-tester",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2022-06-30T11:51:36Z",
+            "owner": "kudelskisecurity",
+            "repo": "azure-policy-tester",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jamesdld/azure-policies",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2022-06-12T18:45:04Z",
+            "owner": "JamesDLD",
+            "repo": "azure-policies",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jimgbritt/azurediagnosticspipeline",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-04-11T18:50:48Z",
+            "owner": "JimGBritt",
+            "repo": "AzureDiagnosticsPipeline",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mattfeltonma/azure-custom-policies",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-11T20:33:40Z",
+            "owner": "mattfeltonma",
+            "repo": "azure-custom-policies",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "azsec/azure-policy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-01-10T18:54:44Z",
+            "owner": "azsec",
+            "repo": "azure-policy",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "globalbao/terraform-azurerm-policy-exemptions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HCL",
+            "last_commit": "2022-12-01T00:09:59Z",
+            "owner": "globalbao",
+            "repo": "terraform-azurerm-policy-exemptions",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claranet/terraform-azurerm-policy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-07-28T23:48:31Z",
+            "owner": "claranet",
+            "repo": "terraform-azurerm-policy",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "siddharthtanna7/azpolicygenerator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-23T15:53:14Z",
+            "owner": "siddharthtanna7",
+            "repo": "AzPolicyGenerator",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jtracey93/tf-az-dine-policy-assignment",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2021-02-03T16:33:55Z",
+            "owner": "jtracey93",
+            "repo": "tf-az-dine-policy-assignment",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stefanrothnet/azure-policy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-02-03T20:20:55Z",
+            "owner": "stefanrothnet",
+            "repo": "azure-policy",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "charotamine/policytests",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2021-09-10T13:01:18Z",
+            "owner": "charotAmine",
+            "repo": "policyTests",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "john-joyner/azure-policy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-14T17:17:18Z",
+            "owner": "john-joyner",
+            "repo": "azure-policy",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "andrewcluey/terraform-azurerm-policy-definition",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2021-06-14T15:19:19Z",
+            "owner": "andrewCluey",
+            "repo": "terraform-azurerm-policy-definition",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "charotamine/azurepolicy_bicep",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Bicep",
+            "last_commit": "2021-09-23T14:34:40Z",
+            "owner": "charotAmine",
+            "repo": "azurepolicy_Bicep",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fawohlsc/azure-policy-samples",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-11-19T14:19:53Z",
+            "owner": "fawohlsc",
+            "repo": "azure-policy-samples",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yangdeal/azure_policy_deployment",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2019-12-10T10:49:06Z",
+            "owner": "yangdeal",
+            "repo": "azure_policy_deployment",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Community Repositories"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T10:41:54.192Z",
+    "original_repository": "globalbao/awesome-azure-policy",
+    "original_repository_sha": "92b30b571abefc0822da440925499e37a3083d77",
+    "enhanced_repository": "enhansome/enhansome-azure-policy",
+    "enhanced_repository_description": null,
+    "title": "Awesome Azure Policy with stars"
+  }
+}
