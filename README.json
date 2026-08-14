@@ -44,7 +44,7 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-08-13T05:25:39Z",
+            "last_commit": "2026-08-14T00:47:05Z",
             "owner": "Azure",
             "repo": "enterprise-azure-policy-as-code",
             "stars": 549
@@ -61,7 +61,7 @@
             "last_commit": "2026-08-13T06:08:04Z",
             "owner": "Azure",
             "repo": "Azure-Landing-Zones-Library",
-            "stars": 150
+            "stars": 151
           }
         },
         {
@@ -442,7 +442,7 @@
           "repo_info": {
             "archived": false,
             "language": "HCL",
-            "last_commit": "2026-07-28T23:48:31Z",
+            "last_commit": "2026-08-14T09:48:40Z",
             "owner": "claranet",
             "repo": "terraform-azurerm-policy",
             "stars": 5
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T10:41:54.192Z",
+    "last_updated": "2026-08-14T10:37:18.581Z",
     "original_repository": "globalbao/awesome-azure-policy",
     "original_repository_sha": "92b30b571abefc0822da440925499e37a3083d77",
     "enhanced_repository": "enhansome/enhansome-azure-policy",
