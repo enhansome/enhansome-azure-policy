@@ -172,7 +172,7 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 * [azure/azure-policy](https://github.com/azure/azure-policy) ⭐ 1,688 | 🐛 313 | 🌐 Open Policy Agent | 📅 2026-08-07
 * [azure/community-policy](https://github.com/azure/community-policy) ⭐ 709 | 🐛 9 | 🌐 Open Policy Agent | 📅 2026-07-16
 * [azure/enterprise-azure-policy-as-code](https://github.com/azure/enterprise-azure-policy-as-code) ⭐ 549 | 🐛 24 | 🌐 PowerShell | 📅 2026-08-14
-* [azure/azure-landing-zones-library](https://github.com/Azure/Azure-Landing-Zones-Library) ⭐ 152 | 🐛 4 | 🌐 PowerShell | 📅 2026-08-13
+* [azure/azure-landing-zones-library](https://github.com/Azure/Azure-Landing-Zones-Library) ⭐ 153 | 🐛 4 | 🌐 PowerShell | 📅 2026-08-13
 * [azure/policy-compliance-scan](https://github.com/azure/policy-compliance-scan) ⭐ 65 | 🐛 16 | 🌐 JavaScript | 📅 2024-08-10
 * [azure/manage-azure-policy](https://github.com/azure/manage-azure-policy) ⚠️ Archived
 * [azure/azurepolicyagents](https://github.com/Azure/AzurePolicyAgents) ⭐ 40 | 🐛 6 | 🌐 PowerShell | 📅 2026-03-30
@@ -455,7 +455,7 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 ## Community Repositories
 
 * [julianhayward/azure-mg-sub-governance-reporting](https://github.com/julianhayward/azure-mg-sub-governance-reporting) ⭐ 979 | 🐛 6 | 🌐 PowerShell | 📅 2026-08-04
-* [globalbao/azure-policy-as-code](https://github.com/globalbao/azure-policy-as-code) ⭐ 186 | 🐛 4 | 🌐 HCL | 📅 2024-04-20
+* [globalbao/azure-policy-as-code](https://github.com/globalbao/azure-policy-as-code) ⭐ 187 | 🐛 4 | 🌐 HCL | 📅 2024-04-20
 * [salesforce/cloud-guardrails](https://github.com/salesforce/cloud-guardrails) ⚠️ Archived
 * [gettek/terraform-azurerm-policy-as-code](https://github.com/gettek/terraform-azurerm-policy-as-code) ⭐ 173 | 🐛 1 | 🌐 HCL | 📅 2025-11-15
 * [tyconsulting/azurepolicy](https://github.com/tyconsulting/azurepolicy) ⭐ 147 | 🐛 3 | 🌐 PowerShell | 📅 2025-03-08
@@ -492,4 +492,4 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
