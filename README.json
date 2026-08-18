@@ -44,7 +44,7 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-08-17T09:37:37Z",
+            "last_commit": "2026-08-18T03:45:30Z",
             "owner": "Azure",
             "repo": "enterprise-azure-policy-as-code",
             "stars": 549
@@ -58,7 +58,7 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-08-13T06:08:04Z",
+            "last_commit": "2026-08-18T08:14:32Z",
             "owner": "Azure",
             "repo": "Azure-Landing-Zones-Library",
             "stars": 153
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:08:27.682Z",
+    "last_updated": "2026-08-18T10:01:49.788Z",
     "original_repository": "globalbao/awesome-azure-policy",
     "original_repository_sha": "92b30b571abefc0822da440925499e37a3083d77",
     "enhanced_repository": "enhansome/enhansome-azure-policy",
