@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Community Articles Leaderboard"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98492017,
             "language": "Open Policy Agent",
             "last_commit": "2026-08-07T23:44:46Z",
             "owner": "Azure",
             "repo": "azure-policy",
-            "stars": 1688
+            "stars": 1689
           }
         },
         {
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 221338252,
             "language": "Open Policy Agent",
             "last_commit": "2026-07-16T00:07:48Z",
             "owner": "Azure",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 337162838,
             "language": "PowerShell",
             "last_commit": "2026-08-18T03:45:30Z",
             "owner": "Azure",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 764046303,
             "language": "PowerShell",
             "last_commit": "2026-08-18T08:14:32Z",
             "owner": "Azure",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 279556457,
             "language": "JavaScript",
             "last_commit": "2024-08-10T05:26:21Z",
             "owner": "Azure",
@@ -85,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 291646456,
             "language": "TypeScript",
             "last_commit": "2025-02-07T16:57:16Z",
             "owner": "Azure",
@@ -99,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1009586133,
             "language": "PowerShell",
             "last_commit": "2026-03-30T21:56:50Z",
             "owner": "Azure",
@@ -113,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 422509790,
             "language": "HCL",
             "last_commit": "2024-01-13T06:21:01Z",
             "owner": "microsoft",
@@ -127,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 617377328,
             "language": "Bicep",
             "last_commit": "2023-09-12T19:07:10Z",
             "owner": "Azure-Samples",
@@ -141,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 416573722,
             "language": "HCL",
             "last_commit": "2024-04-25T10:43:53Z",
             "owner": "Azure",
@@ -152,7 +157,7 @@
       "title": "Microsoft Repositories and Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -161,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 242074500,
             "language": "PowerShell",
             "last_commit": "2026-08-04T11:13:47Z",
             "owner": "JulianHayward",
@@ -175,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 344983232,
             "language": "HCL",
             "last_commit": "2024-04-20T04:59:58Z",
             "owner": "globalbao",
@@ -189,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 345784883,
             "language": "HCL",
             "last_commit": "2025-05-01T17:28:45Z",
             "owner": "salesforce",
@@ -203,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 326000526,
             "language": "HCL",
             "last_commit": "2025-11-15T20:32:57Z",
             "owner": "gettek",
@@ -217,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145643478,
             "language": "PowerShell",
             "last_commit": "2025-03-08T03:11:49Z",
             "owner": "TaoYang-Cloud",
@@ -231,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 304070671,
             "language": "PowerShell",
             "last_commit": "2024-01-18T11:12:37Z",
             "owner": "fawohlsc",
@@ -245,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176361514,
             "language": "PowerShell",
             "last_commit": "2023-03-14T20:17:01Z",
             "owner": "JimGBritt",
@@ -259,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 345718896,
             "language": "Bicep",
             "last_commit": "2025-09-26T15:45:10Z",
             "owner": "matthiasguentert",
@@ -273,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 225154355,
             "language": "Bicep",
             "last_commit": "2025-11-03T13:00:37Z",
             "owner": "andrewmatveychuk",
@@ -287,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185954404,
             "language": null,
             "last_commit": "2019-07-09T15:36:09Z",
             "owner": "faridabharmal",
@@ -301,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 319425685,
             "language": "JavaScript",
             "last_commit": "2026-07-20T19:10:38Z",
             "owner": "ricmmartins",
@@ -315,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 429941883,
             "language": "Bicep",
             "last_commit": "2023-01-16T09:14:42Z",
             "owner": "TaoYang-Cloud",
@@ -329,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148670781,
             "language": "PowerShell",
             "last_commit": "2022-05-16T23:37:17Z",
             "owner": "robinchapas",
@@ -343,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 729073625,
             "language": "C#",
             "last_commit": "2025-01-13T13:50:32Z",
             "owner": "JanneMattila",
@@ -357,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 508991261,
             "language": "Go",
             "last_commit": "2022-06-30T11:51:36Z",
             "owner": "kudelskisecurity",
@@ -371,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 321630009,
             "language": "PowerShell",
             "last_commit": "2022-06-12T18:45:04Z",
             "owner": "JamesDLD",
@@ -385,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 342387314,
             "language": null,
             "last_commit": "2022-04-11T18:50:48Z",
             "owner": "JimGBritt",
@@ -399,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 207054093,
             "language": null,
             "last_commit": "2024-07-11T20:33:40Z",
             "owner": "mattfeltonma",
@@ -413,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 358402106,
             "language": "Shell",
             "last_commit": "2023-01-10T18:54:44Z",
             "owner": "azsec",
@@ -427,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 393898869,
             "language": "HCL",
             "last_commit": "2022-12-01T00:09:59Z",
             "owner": "globalbao",
@@ -441,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 221944750,
             "language": "HCL",
             "last_commit": "2026-08-14T09:48:40Z",
             "owner": "claranet",
@@ -455,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 970844218,
             "language": "JavaScript",
             "last_commit": "2025-04-23T15:53:14Z",
             "owner": "siddharthtanna7",
@@ -469,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 331065071,
             "language": "HCL",
             "last_commit": "2021-02-03T16:33:55Z",
             "owner": "jtracey93",
@@ -483,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 211537842,
             "language": null,
             "last_commit": "2020-02-03T20:20:55Z",
             "owner": "stefanrothnet",
@@ -497,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 404464854,
             "language": "HCL",
             "last_commit": "2021-09-10T13:01:18Z",
             "owner": "charotAmine",
@@ -511,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 330460649,
             "language": null,
             "last_commit": "2025-11-14T17:17:18Z",
             "owner": "john-joyner",
@@ -525,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 376769518,
             "language": "HCL",
             "last_commit": "2021-06-14T15:19:19Z",
             "owner": "andrewCluey",
@@ -539,6 +571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 409594276,
             "language": "Bicep",
             "last_commit": "2021-09-23T14:34:40Z",
             "owner": "charotAmine",
@@ -553,6 +586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 333726727,
             "language": null,
             "last_commit": "2021-11-19T14:19:53Z",
             "owner": "fawohlsc",
@@ -567,6 +601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 226577582,
             "language": "HCL",
             "last_commit": "2019-12-10T10:49:06Z",
             "owner": "yangdeal",
@@ -579,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T10:01:49.788Z",
+    "last_updated": "2026-08-19T10:02:35.365Z",
     "original_repository": "globalbao/awesome-azure-policy",
     "original_repository_sha": "92b30b571abefc0822da440925499e37a3083d77",
     "enhanced_repository": "enhansome/enhansome-azure-policy",
