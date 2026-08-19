@@ -614,8 +614,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:02:35.365Z",
+    "last_updated": "2026-08-19T12:16:48.534Z",
     "original_repository": "globalbao/awesome-azure-policy",
+    "original_repository_id": 445070068,
     "original_repository_sha": "92b30b571abefc0822da440925499e37a3083d77",
     "enhanced_repository": "enhansome/enhansome-azure-policy",
     "enhanced_repository_description": null,
