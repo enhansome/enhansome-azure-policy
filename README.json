@@ -12,10 +12,10 @@
             "archived": false,
             "id": 98492017,
             "language": "Open Policy Agent",
-            "last_commit": "2026-08-20T07:11:40Z",
+            "last_commit": "2026-08-20T21:39:24Z",
             "owner": "Azure",
             "repo": "azure-policy",
-            "stars": 1689
+            "stars": 1690
           }
         },
         {
@@ -213,7 +213,7 @@
             "archived": false,
             "id": 326000526,
             "language": "HCL",
-            "last_commit": "2025-11-15T20:32:57Z",
+            "last_commit": "2026-08-20T11:33:38Z",
             "owner": "gettek",
             "repo": "terraform-azurerm-policy-as-code",
             "stars": 173
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T10:04:43.091Z",
+    "last_updated": "2026-08-21T10:04:30.337Z",
     "original_repository": "globalbao/awesome-azure-policy",
     "original_repository_id": 445070068,
     "original_repository_sha": "92b30b571abefc0822da440925499e37a3083d77",
