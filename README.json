@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T21:39:24Z",
             "owner": "Azure",
             "repo": "azure-policy",
-            "stars": 1690
+            "stars": 1691
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 337162838,
             "language": "PowerShell",
-            "last_commit": "2026-08-18T03:45:30Z",
+            "last_commit": "2026-08-21T10:46:52Z",
             "owner": "Azure",
             "repo": "enterprise-azure-policy-as-code",
             "stars": 550
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T10:04:30.337Z",
+    "last_updated": "2026-08-22T09:55:31.169Z",
     "original_repository": "globalbao/awesome-azure-policy",
     "original_repository_id": 445070068,
     "original_repository_sha": "92b30b571abefc0822da440925499e37a3083d77",
