@@ -117,7 +117,7 @@
             "archived": false,
             "id": 422509790,
             "language": "HCL",
-            "last_commit": "2024-01-13T06:21:01Z",
+            "last_commit": "2026-08-25T07:43:36Z",
             "owner": "microsoft",
             "repo": "AzurePolicyTestFramework",
             "stars": 40
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:18:11.854Z",
+    "last_updated": "2026-08-25T10:04:22.629Z",
     "original_repository": "globalbao/awesome-azure-policy",
     "original_repository_id": 445070068,
     "original_repository_sha": "92b30b571abefc0822da440925499e37a3083d77",
