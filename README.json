@@ -42,10 +42,10 @@
             "archived": false,
             "id": 337162838,
             "language": "PowerShell",
-            "last_commit": "2026-08-24T23:29:45Z",
+            "last_commit": "2026-08-25T23:10:51Z",
             "owner": "Azure",
             "repo": "enterprise-azure-policy-as-code",
-            "stars": 550
+            "stars": 551
           }
         },
         {
@@ -468,7 +468,7 @@
             "archived": false,
             "id": 221944750,
             "language": "HCL",
-            "last_commit": "2026-08-19T12:30:52Z",
+            "last_commit": "2026-08-25T13:11:07Z",
             "owner": "claranet",
             "repo": "terraform-azurerm-policy",
             "stars": 5
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T10:04:22.629Z",
+    "last_updated": "2026-08-26T10:16:30.264Z",
     "original_repository": "globalbao/awesome-azure-policy",
     "original_repository_id": 445070068,
     "original_repository_sha": "92b30b571abefc0822da440925499e37a3083d77",
