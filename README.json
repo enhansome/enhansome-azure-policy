@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T21:39:24Z",
             "owner": "Azure",
             "repo": "azure-policy",
-            "stars": 1692
+            "stars": 1694
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 337162838,
             "language": "PowerShell",
-            "last_commit": "2026-08-25T23:10:51Z",
+            "last_commit": "2026-08-26T22:30:40Z",
             "owner": "Azure",
             "repo": "enterprise-azure-policy-as-code",
             "stars": 551
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 764046303,
             "language": "PowerShell",
-            "last_commit": "2026-08-24T09:10:11Z",
+            "last_commit": "2026-08-27T07:59:56Z",
             "owner": "Azure",
             "repo": "Azure-Landing-Zones-Library",
             "stars": 153
@@ -614,9 +614,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:16:30.264Z",
-    "original_repository": "globalbao/awesome-azure-policy",
-    "original_repository_id": 445070068,
+    "last_updated": "2026-08-27T11:27:17.353Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 445070068,
+      "language": null,
+      "last_commit": "2026-05-30T07:05:04Z",
+      "owner": "globalbao",
+      "repo": "awesome-azure-policy",
+      "stars": 541
+    },
     "original_repository_sha": "92b30b571abefc0822da440925499e37a3083d77",
     "enhanced_repository": "enhansome/enhansome-azure-policy",
     "enhanced_repository_description": null,
