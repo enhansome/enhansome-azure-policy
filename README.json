@@ -15,8 +15,9 @@
             "last_commit": "2026-08-20T21:39:24Z",
             "owner": "Azure",
             "repo": "azure-policy",
-            "stars": 1694
-          }
+            "stars": 1696
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "Azure",
             "repo": "Community-Policy",
             "stars": 709
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 337162838,
             "language": "PowerShell",
-            "last_commit": "2026-08-26T22:30:40Z",
+            "last_commit": "2026-08-28T12:23:43Z",
             "owner": "Azure",
             "repo": "enterprise-azure-policy-as-code",
-            "stars": 551
-          }
+            "stars": 552
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "Azure",
             "repo": "Azure-Landing-Zones-Library",
             "stars": 153
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "Azure",
             "repo": "policy-compliance-scan",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "Azure",
             "repo": "manage-azure-policy",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "Azure",
             "repo": "AzurePolicyAgents",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "microsoft",
             "repo": "AzurePolicyTestFramework",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "Azure-Samples",
             "repo": "aca-azure-policy",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "Azure",
             "repo": "regulatory-compliance-initiatives",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         }
       ],
       "title": "Microsoft Repositories and Tools"
@@ -172,7 +182,8 @@
             "owner": "JulianHayward",
             "repo": "Azure-MG-Sub-Governance-Reporting",
             "stars": 979
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "globalbao",
             "repo": "azure-policy-as-code",
             "stars": 187
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "salesforce",
             "repo": "cloud-guardrails",
             "stars": 183
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "gettek",
             "repo": "terraform-azurerm-policy-as-code",
             "stars": 173
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "TaoYang-Cloud",
             "repo": "azurepolicy",
             "stars": 147
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "fawohlsc",
             "repo": "azure-policy-testing",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "JimGBritt",
             "repo": "AzurePolicy",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "matthiasguentert",
             "repo": "azure-naming-convention-initiative",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "andrewmatveychuk",
             "repo": "azure.policy",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "faridabharmal",
             "repo": "AzureGovernance",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "ricmmartins",
             "repo": "azure-governance-made-simple",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "TaoYang-Cloud",
             "repo": "azure.policy.monitor",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "robinchapas",
             "repo": "ConvertToPolicy",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "JanneMattila",
             "repo": "azure-policy-evaluator",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "kudelskisecurity",
             "repo": "azure-policy-tester",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "JamesDLD",
             "repo": "azure-policies",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "JimGBritt",
             "repo": "AzureDiagnosticsPipeline",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "mattfeltonma",
             "repo": "azure-custom-policies",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "azsec",
             "repo": "azure-policy",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "globalbao",
             "repo": "terraform-azurerm-policy-exemptions",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "claranet",
             "repo": "terraform-azurerm-policy",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "siddharthtanna7",
             "repo": "AzPolicyGenerator",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -502,7 +534,8 @@
             "owner": "jtracey93",
             "repo": "tf-az-dine-policy-assignment",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -517,7 +550,8 @@
             "owner": "stefanrothnet",
             "repo": "azure-policy",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -532,7 +566,8 @@
             "owner": "charotAmine",
             "repo": "policyTests",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -547,7 +582,8 @@
             "owner": "john-joyner",
             "repo": "azure-policy",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -562,7 +598,8 @@
             "owner": "andrewCluey",
             "repo": "terraform-azurerm-policy-definition",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -577,7 +614,8 @@
             "owner": "charotAmine",
             "repo": "azurepolicy_Bicep",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -592,7 +630,8 @@
             "owner": "fawohlsc",
             "repo": "azure-policy-samples",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         },
         {
           "node_type": "item",
@@ -607,14 +646,15 @@
             "owner": "yangdeal",
             "repo": "azure_policy_deployment",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
         }
       ],
       "title": "Community Repositories"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:59:15.377Z",
+    "last_updated": "2026-08-28T20:59:12.107Z",
     "original_repository_info": {
       "archived": false,
       "id": 445070068,
