@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for Azure Resource Policy built-in definitions and samples",
+            "homepage": null,
             "id": 98492017,
             "language": "Open Policy Agent",
+            "license": "MIT",
             "last_commit": "2026-08-20T21:39:24Z",
+            "open_issues": 317,
             "owner": "Azure",
             "repo": "azure-policy",
-            "stars": 1696
+            "stars": 1696,
+            "topics": [
+              "azure",
+              "policy"
+            ]
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -26,12 +34,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo is for Microsoft Azure customers and Microsoft teams to collaborate in making custom policies. ",
+            "homepage": null,
             "id": 221338252,
             "language": "Open Policy Agent",
+            "license": "MIT",
             "last_commit": "2026-07-16T00:07:48Z",
+            "open_issues": 10,
             "owner": "Azure",
             "repo": "Community-Policy",
-            "stars": 709
+            "stars": 709,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -42,12 +55,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enterprise Azure Policy-as-Code (EPAC) solution",
+            "homepage": "https://azure.github.io/enterprise-azure-policy-as-code/",
             "id": 337162838,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2026-08-28T12:23:43Z",
+            "open_issues": 27,
             "owner": "Azure",
             "repo": "enterprise-azure-policy-as-code",
-            "stars": 552
+            "stars": 552,
+            "topics": [
+              "azure",
+              "azure-pipeline",
+              "azure-policy",
+              "devops",
+              "infrastructure-as-code",
+              "policy"
+            ]
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -58,12 +83,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library of assets to deploy Azure Landing Zones architectures",
+            "homepage": "https://azure.github.io/Azure-Landing-Zones-Library/",
             "id": 764046303,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2026-08-27T07:59:56Z",
+            "open_issues": 4,
             "owner": "Azure",
             "repo": "Azure-Landing-Zones-Library",
-            "stars": 153
+            "stars": 153,
+            "topics": [
+              "azure",
+              "azure-policies",
+              "azure-policy",
+              "azurelandingzone",
+              "azurelandingzones",
+              "azurepolicy"
+            ]
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -74,12 +111,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A GitHub action that scans the Azure resources for policy violations.",
+            "homepage": null,
             "id": 279556457,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-08-10T05:26:21Z",
+            "open_issues": 17,
             "owner": "Azure",
             "repo": "policy-compliance-scan",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -90,12 +132,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "GiHub Action to manage Azure policy from GitHub workflows",
+            "homepage": null,
             "id": 291646456,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-02-07T16:57:16Z",
+            "open_issues": 8,
             "owner": "Azure",
             "repo": "manage-azure-policy",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -106,12 +153,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agents for Azure Policy development, testing, and implementation",
+            "homepage": null,
             "id": 1009586133,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2026-03-30T21:56:50Z",
+            "open_issues": 7,
             "owner": "Azure",
             "repo": "AzurePolicyAgents",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -122,12 +174,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command line tool to test Azure Policy relying on Terraform + Golang",
+            "homepage": null,
             "id": 422509790,
             "language": "HCL",
+            "license": "MIT",
             "last_commit": "2026-08-25T07:43:36Z",
+            "open_issues": 9,
             "owner": "microsoft",
             "repo": "AzurePolicyTestFramework",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -138,12 +195,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This repository contains custom Azure Policies for Azure Container Apps.",
+            "homepage": null,
             "id": 617377328,
             "language": "Bicep",
+            "license": "MIT",
             "last_commit": "2023-09-12T19:07:10Z",
+            "open_issues": 1,
             "owner": "Azure-Samples",
             "repo": "aca-azure-policy",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -154,12 +216,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 416573722,
             "language": "HCL",
+            "license": "MIT",
             "last_commit": "2024-04-25T10:43:53Z",
+            "open_issues": 2,
             "owner": "Azure",
             "repo": "regulatory-compliance-initiatives",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         }
@@ -176,12 +243,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Azure Governance Visualizer aka AzGovViz is a PowerShell script that captures Azure Governance related information such as Azure Policy, RBAC (a lot more) by polling Azure ARM, Storage and Microsoft Graph APIs.",
+            "homepage": null,
             "id": 242074500,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2026-08-04T11:13:47Z",
+            "open_issues": 7,
             "owner": "JulianHayward",
             "repo": "Azure-MG-Sub-Governance-Reporting",
-            "stars": 979
+            "stars": 979,
+            "topics": [
+              "azure",
+              "azure-policies",
+              "azuregovernance",
+              "azurepolicy",
+              "rbac-roles"
+            ]
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -192,12 +270,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bicep and Terraform code examples for policy-as-code workflows. Azure governance guardrails and automation - by @JesseLoudon",
+            "homepage": "https://globalbao.github.io/azure-policy-as-code",
             "id": 344983232,
             "language": "HCL",
+            "license": "MIT",
             "last_commit": "2024-04-20T04:59:58Z",
+            "open_issues": 4,
             "owner": "globalbao",
             "repo": "azure-policy-as-code",
-            "stars": 187
+            "stars": 187,
+            "topics": [
+              "armtemplates",
+              "azure",
+              "azure-policy",
+              "azuredevops",
+              "azurepolicy",
+              "azurerm",
+              "bicep",
+              "cicd",
+              "custom-policies",
+              "devops",
+              "policy-as-code",
+              "terraform",
+              "terraform-azurerm"
+            ]
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -208,12 +305,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Rapidly apply hundreds of security controls in Azure",
+            "homepage": "https://cloud-guardrails.readthedocs.io/",
             "id": 345784883,
             "language": "HCL",
+            "license": null,
             "last_commit": "2025-05-01T17:28:45Z",
+            "open_issues": 1,
             "owner": "salesforce",
             "repo": "cloud-guardrails",
-            "stars": 183
+            "stars": 183,
+            "topics": [
+              "azure",
+              "azure-security",
+              "cloud",
+              "security",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -224,12 +332,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terraform modules that simplify the deployment of both custom and built-in Azure Policies",
+            "homepage": "https://learn.microsoft.com/en-us/azure/governance/policy/concepts/policy-as-code",
             "id": 326000526,
             "language": "HCL",
+            "license": "MIT",
             "last_commit": "2026-08-20T11:33:38Z",
+            "open_issues": 0,
             "owner": "gettek",
             "repo": "terraform-azurerm-policy-as-code",
-            "stars": 173
+            "stars": 173,
+            "topics": [
+              "azure",
+              "azure-policy",
+              "azurerm-policy",
+              "builtin-policies",
+              "config-management",
+              "continuous-compliance",
+              "custom-policy",
+              "dsc",
+              "guest-configuration",
+              "machine-configuration",
+              "powershell-dsc",
+              "remediation-tasks",
+              "terraform",
+              "terraform-azurerm-policy",
+              "terraform-module"
+            ]
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -240,12 +369,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 145643478,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2025-03-08T03:11:49Z",
+            "open_issues": 3,
             "owner": "TaoYang-Cloud",
             "repo": "azurepolicy",
-            "stars": 147
+            "stars": 147,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -256,12 +390,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository outlines an automated testing approach for Azure Policies. The approach is fundamentally based on behavior-driven development (BDD) to improve communication between developers, security experts and compliance officers.",
+            "homepage": null,
             "id": 304070671,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2024-01-18T11:12:37Z",
+            "open_issues": 6,
             "owner": "fawohlsc",
             "repo": "azure-policy-testing",
-            "stars": 115
+            "stars": 115,
+            "topics": [
+              "azure",
+              "azurepolicy",
+              "azurepowershell",
+              "bdd",
+              "github",
+              "githubactions",
+              "microsoft",
+              "pester",
+              "powershell"
+            ]
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -272,12 +421,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample Azure Policies",
+            "homepage": null,
             "id": 176361514,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2023-03-14T20:17:01Z",
+            "open_issues": 7,
             "owner": "JimGBritt",
             "repo": "AzurePolicy",
-            "stars": 111
+            "stars": 111,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -288,12 +442,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository holds Azure policies to enforce Microsoft's naming convention for Azure resources",
+            "homepage": null,
             "id": 345718896,
             "language": "Bicep",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-26T15:45:10Z",
+            "open_issues": 0,
             "owner": "matthiasguentert",
             "repo": "azure-naming-convention-initiative",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -304,12 +463,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample ARM and Bicep templates for Azure policy and policy initiative definitions",
+            "homepage": "https://andrewmatveychuk.com/tag/azure-policy/",
             "id": 225154355,
             "language": "Bicep",
+            "license": "MIT",
             "last_commit": "2025-11-03T13:00:37Z",
+            "open_issues": 0,
             "owner": "andrewmatveychuk",
             "repo": "azure.policy",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "arm-templates",
+              "azure",
+              "azure-pipeline",
+              "azure-policy",
+              "bicep",
+              "cicd",
+              "policy"
+            ]
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -320,12 +492,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Azure Governance Challenge - Management Groups, Policies, Blueprints, Resource Graph",
+            "homepage": null,
             "id": 185954404,
             "language": null,
+            "license": null,
             "last_commit": "2019-07-09T15:36:09Z",
+            "open_issues": 0,
             "owner": "faridabharmal",
             "repo": "AzureGovernance",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -336,12 +513,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A straightforward guide about Azure Governance",
+            "homepage": "http://azgovernance.com/",
             "id": 319425685,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-20T19:10:38Z",
+            "open_issues": 0,
             "owner": "ricmmartins",
             "repo": "azure-governance-made-simple",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -352,12 +534,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 429941883,
             "language": "Bicep",
+            "license": "MIT",
             "last_commit": "2023-01-16T09:14:42Z",
+            "open_issues": 5,
             "owner": "TaoYang-Cloud",
             "repo": "azure.policy.monitor",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -368,12 +555,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert Azure resource graph queries into policies. ",
+            "homepage": null,
             "id": 148670781,
             "language": "PowerShell",
+            "license": null,
             "last_commit": "2022-05-16T23:37:17Z",
+            "open_issues": 2,
             "owner": "robinchapas",
             "repo": "ConvertToPolicy",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -384,12 +576,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Azure Policy development should be just like normal development with unit testing capabilities. This project tries to enable that.",
+            "homepage": null,
             "id": 729073625,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-01-13T13:50:32Z",
+            "open_issues": 3,
             "owner": "JanneMattila",
             "repo": "azure-policy-evaluator",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "azure",
+              "azure-policy"
+            ]
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -400,12 +600,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Run unit-tests with Golang testing on your Azure policies",
+            "homepage": null,
             "id": 508991261,
             "language": "Go",
+            "license": null,
             "last_commit": "2022-06-30T11:51:36Z",
+            "open_issues": 0,
             "owner": "kudelskisecurity",
             "repo": "azure-policy-tester",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -416,12 +621,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Share Azure Policies with the community",
+            "homepage": null,
             "id": 321630009,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2022-06-12T18:45:04Z",
+            "open_issues": 0,
             "owner": "JamesDLD",
             "repo": "azure-policies",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -432,12 +642,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository has source to build an Azure Diagnostics DevOps Pipeline to Apply Diag Settings to Azure Resources (dynamically)",
+            "homepage": null,
             "id": 342387314,
             "language": null,
+            "license": null,
             "last_commit": "2022-04-11T18:50:48Z",
+            "open_issues": 0,
             "owner": "JimGBritt",
             "repo": "AzureDiagnosticsPipeline",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -448,12 +663,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains a collection of custom Azure Policies I've put together",
+            "homepage": null,
             "id": 207054093,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-07-11T20:33:40Z",
+            "open_issues": 0,
             "owner": "mattfeltonma",
             "repo": "azure-custom-policies",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -464,12 +684,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository provides some sample Azure Policy templates to support your Cloud Security and Governance",
+            "homepage": null,
             "id": 358402106,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-10T18:54:44Z",
+            "open_issues": 1,
             "owner": "azsec",
             "repo": "azure-policy",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -480,12 +705,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Terraform module for managing AzureRM policy exemptions (via ARM template) - by @JesseLoudon",
+            "homepage": "https://registry.terraform.io/modules/globalbao/policy-exemptions/azurerm/latest",
             "id": 393898869,
             "language": "HCL",
+            "license": "MIT",
             "last_commit": "2022-12-01T00:09:59Z",
+            "open_issues": 0,
             "owner": "globalbao",
             "repo": "terraform-azurerm-policy-exemptions",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "azure-policy-exemptions",
+              "azurerm-policy",
+              "azurerm-terraform-provider",
+              "policy-exemptions",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -496,12 +732,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terraform module for Azure Policy",
+            "homepage": null,
             "id": 221944750,
             "language": "HCL",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T13:11:07Z",
+            "open_issues": 0,
             "owner": "claranet",
             "repo": "terraform-azurerm-policy",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "azure",
+              "claranet",
+              "module",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -512,12 +758,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 970844218,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-04-23T15:53:14Z",
+            "open_issues": 0,
             "owner": "siddharthtanna7",
             "repo": "AzPolicyGenerator",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -528,12 +779,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Terraform module to simplify the assignment of DeployIfNotExists Azure Policies and the required RBAC assignment for the associated MSI",
+            "homepage": null,
             "id": 331065071,
             "language": "HCL",
+            "license": "MIT",
             "last_commit": "2021-02-03T16:33:55Z",
+            "open_issues": 0,
             "owner": "jtracey93",
             "repo": "tf-az-dine-policy-assignment",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "azure",
+              "azure-policy",
+              "terraform",
+              "terraform-module"
+            ]
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -544,12 +805,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 211537842,
             "language": null,
+            "license": null,
             "last_commit": "2020-02-03T20:20:55Z",
+            "open_issues": 2,
             "owner": "stefanrothnet",
             "repo": "azure-policy",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -560,12 +826,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 404464854,
             "language": "HCL",
+            "license": null,
             "last_commit": "2021-09-10T13:01:18Z",
+            "open_issues": 0,
             "owner": "charotAmine",
             "repo": "policyTests",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -576,12 +847,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 330460649,
             "language": null,
+            "license": null,
             "last_commit": "2025-11-14T17:17:18Z",
+            "open_issues": 0,
             "owner": "john-joyner",
             "repo": "azure-policy",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -592,12 +868,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terraform module that will define Azure policies using json file inputs",
+            "homepage": null,
             "id": 376769518,
             "language": "HCL",
+            "license": null,
             "last_commit": "2021-06-14T15:19:19Z",
+            "open_issues": 0,
             "owner": "andrewCluey",
             "repo": "terraform-azurerm-policy-definition",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -608,12 +889,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 409594276,
             "language": "Bicep",
+            "license": null,
             "last_commit": "2021-09-23T14:34:40Z",
+            "open_issues": 0,
             "owner": "charotAmine",
             "repo": "azurepolicy_Bicep",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -624,12 +910,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Azure Policy samples.",
+            "homepage": null,
             "id": 333726727,
             "language": null,
+            "license": "MIT",
             "last_commit": "2021-11-19T14:19:53Z",
+            "open_issues": 0,
             "owner": "fawohlsc",
             "repo": "azure-policy-samples",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "azure",
+              "azure-policy",
+              "microsoft"
+            ]
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -640,12 +935,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 226577582,
             "language": "HCL",
+            "license": null,
             "last_commit": "2019-12-10T10:49:06Z",
+            "open_issues": 0,
             "owner": "yangdeal",
             "repo": "azure_policy_deployment",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         }
@@ -654,15 +954,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:59:12.107Z",
+    "last_updated": "2026-08-29T04:44:41.403Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon",
+      "homepage": "https://aka.ms/AzurePolicy",
       "id": 445070068,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-05-30T07:05:04Z",
+      "open_issues": 0,
       "owner": "globalbao",
       "repo": "awesome-azure-policy",
-      "stars": 541
+      "stars": 541,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "azure",
+        "azure-policy",
+        "azurepolicy",
+        "cloud",
+        "controls",
+        "governance",
+        "guardrails",
+        "policy-as-code"
+      ]
     },
     "original_repository_sha": "92b30b571abefc0822da440925499e37a3083d77",
     "enhanced_repository": "enhansome/enhansome-azure-policy",
