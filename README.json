@@ -60,11 +60,11 @@
             "id": 337162838,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-08-28T12:23:43Z",
-            "open_issues": 27,
+            "last_commit": "2026-08-31T10:50:38Z",
+            "open_issues": 21,
             "owner": "Azure",
             "repo": "enterprise-azure-policy-as-code",
-            "stars": 552,
+            "stars": 553,
             "topics": [
               "azure",
               "azure-pipeline",
@@ -88,11 +88,11 @@
             "id": 764046303,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-08-27T07:59:56Z",
-            "open_issues": 4,
+            "last_commit": "2026-08-31T08:30:46Z",
+            "open_issues": 5,
             "owner": "Azure",
             "repo": "Azure-Landing-Zones-Library",
-            "stars": 153,
+            "stars": 154,
             "topics": [
               "azure",
               "azure-policies",
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T14:30:41.715Z",
+    "last_updated": "2026-08-31T17:13:06.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon",

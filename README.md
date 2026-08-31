@@ -44,7 +44,7 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 * [Design Azure Policy as Code workflows](https://learn.microsoft.com/en-us/azure/governance/policy/concepts/policy-as-code)
 * [Enterprise Policy As Code (EPAC)](https://azure.github.io/enterprise-azure-policy-as-code/)
 * [Get compliance data of Azure resources](https://learn.microsoft.com/en-us/azure/governance/policy/how-to/get-compliance-data)
-* [Policies included in Azure Landing Zones reference implementations](https://github.com/Azure/Enterprise-Scale/blob/main/docs/ESLZ-Policies.md) ⭐ 1,956 | 🐛 4 | 🌐 PowerShell | 📅 2026-08-27
+* [Policies included in Azure Landing Zones reference implementations](https://github.com/Azure/Enterprise-Scale/blob/main/docs/ESLZ-Policies.md) ⭐ 1,956 | 🐛 5 | 🌐 PowerShell | 📅 2026-08-31
 * [Secure your cluster with Azure Policy](https://docs.microsoft.com/en-us/azure/aks/use-azure-policy?toc=/azure/governance/policy/toc.json\&bc=/azure/governance/policy/breadcrumb/toc.json)
 * [Remediate non-compliant resources with Azure Policy](https://learn.microsoft.com/en-us/azure/governance/policy/how-to/remediate-resources?tabs=azure-portal)
 * [Safe deployment of Azure Policy assignments](https://learn.microsoft.com/en-us/azure/governance/policy/how-to/policy-safe-deployment-practices)
@@ -171,8 +171,8 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 
 * [azure/azure-policy](https://github.com/azure/azure-policy) ⭐ 1,696 | 🐛 317 | 🌐 Open Policy Agent | 📅 2026-08-20
 * [azure/community-policy](https://github.com/azure/community-policy) ⭐ 709 | 🐛 10 | 🌐 Open Policy Agent | 📅 2026-07-16
-* [azure/enterprise-azure-policy-as-code](https://github.com/azure/enterprise-azure-policy-as-code) ⭐ 552 | 🐛 27 | 🌐 PowerShell | 📅 2026-08-28
-* [azure/azure-landing-zones-library](https://github.com/Azure/Azure-Landing-Zones-Library) ⭐ 153 | 🐛 4 | 🌐 PowerShell | 📅 2026-08-27
+* [azure/enterprise-azure-policy-as-code](https://github.com/azure/enterprise-azure-policy-as-code) ⭐ 553 | 🐛 21 | 🌐 PowerShell | 📅 2026-08-31
+* [azure/azure-landing-zones-library](https://github.com/Azure/Azure-Landing-Zones-Library) ⭐ 154 | 🐛 5 | 🌐 PowerShell | 📅 2026-08-31
 * [azure/policy-compliance-scan](https://github.com/azure/policy-compliance-scan) ⭐ 65 | 🐛 17 | 🌐 JavaScript | 📅 2024-08-10
 * [azure/manage-azure-policy](https://github.com/azure/manage-azure-policy) ⚠️ Archived
 * [azure/azurepolicyagents](https://github.com/Azure/AzurePolicyAgents) ⭐ 40 | 🐛 7 | 🌐 PowerShell | 📅 2026-03-30
@@ -492,4 +492,4 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
