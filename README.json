@@ -15,8 +15,8 @@
             "id": 98492017,
             "language": "Open Policy Agent",
             "license": "MIT",
-            "last_commit": "2026-09-01T16:46:33Z",
-            "open_issues": 319,
+            "last_commit": "2026-09-07T00:27:21Z",
+            "open_issues": 320,
             "owner": "Azure",
             "repo": "azure-policy",
             "stars": 1696,
@@ -88,7 +88,7 @@
             "id": 764046303,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-08-31T08:30:46Z",
+            "last_commit": "2026-09-07T08:29:21Z",
             "open_issues": 5,
             "owner": "Azure",
             "repo": "Azure-Landing-Zones-Library",
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T13:06:13.211Z",
+    "last_updated": "2026-09-07T15:13:10.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon",
