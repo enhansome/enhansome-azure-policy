@@ -19,7 +19,7 @@
             "open_issues": 321,
             "owner": "Azure",
             "repo": "azure-policy",
-            "stars": 1696,
+            "stars": 1697,
             "topics": [
               "azure",
               "policy"
@@ -43,7 +43,7 @@
             "open_issues": 10,
             "owner": "Azure",
             "repo": "Community-Policy",
-            "stars": 709,
+            "stars": 710,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
@@ -61,7 +61,7 @@
             "language": "PowerShell",
             "license": "MIT",
             "last_commit": "2026-09-09T03:42:29Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "Azure",
             "repo": "enterprise-azure-policy-as-code",
             "stars": 553,
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T13:53:22.282Z",
+    "last_updated": "2026-09-10T13:47:15.186Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon",
@@ -966,7 +966,7 @@
       "open_issues": 0,
       "owner": "globalbao",
       "repo": "awesome-azure-policy",
-      "stars": 542,
+      "stars": 543,
       "topics": [
         "awesome",
         "awesome-list",
