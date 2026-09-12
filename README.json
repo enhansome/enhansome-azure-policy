@@ -40,7 +40,7 @@
             "language": "Open Policy Agent",
             "license": "MIT",
             "last_commit": "2026-09-08T21:11:29Z",
-            "open_issues": 10,
+            "open_issues": 12,
             "owner": "Azure",
             "repo": "Community-Policy",
             "stars": 710,
@@ -248,7 +248,7 @@
             "id": 242074500,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-09-07T16:59:50Z",
+            "last_commit": "2026-09-11T16:29:00Z",
             "open_issues": 8,
             "owner": "JulianHayward",
             "repo": "Azure-MG-Sub-Governance-Reporting",
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T13:48:15.533Z",
+    "last_updated": "2026-09-12T13:06:48.415Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon",
