@@ -64,7 +64,7 @@
             "open_issues": 25,
             "owner": "Azure",
             "repo": "enterprise-azure-policy-as-code",
-            "stars": 553,
+            "stars": 552,
             "topics": [
               "azure",
               "azure-pipeline",
@@ -252,7 +252,7 @@
             "open_issues": 8,
             "owner": "JulianHayward",
             "repo": "Azure-MG-Sub-Governance-Reporting",
-            "stars": 981,
+            "stars": 979,
             "topics": [
               "azure",
               "azure-policies",
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T13:06:48.415Z",
+    "last_updated": "2026-09-13T13:52:32.768Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon",
