@@ -60,8 +60,8 @@
             "id": 337162838,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-09-15T14:07:23Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-16T00:39:14Z",
+            "open_issues": 24,
             "owner": "Azure",
             "repo": "enterprise-azure-policy-as-code",
             "stars": 552,
@@ -92,7 +92,7 @@
             "open_issues": 5,
             "owner": "Azure",
             "repo": "Azure-Landing-Zones-Library",
-            "stars": 155,
+            "stars": 156,
             "topics": [
               "azure",
               "azure-policies",
@@ -341,7 +341,7 @@
             "open_issues": 0,
             "owner": "gettek",
             "repo": "terraform-azurerm-policy-as-code",
-            "stars": 173,
+            "stars": 172,
             "topics": [
               "azure",
               "azure-policy",
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T14:26:49.086Z",
+    "last_updated": "2026-09-16T14:20:41.538Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon",
