@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T14:25:49.618Z",
+    "last_updated": "2026-09-18T13:47:44.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon",
@@ -962,7 +962,7 @@
       "id": 445070068,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-05-30T07:05:04Z",
+      "last_commit": "2026-09-18T12:24:09Z",
       "open_issues": 0,
       "owner": "globalbao",
       "repo": "awesome-azure-policy",
@@ -980,7 +980,7 @@
         "policy-as-code"
       ]
     },
-    "original_repository_sha": "92b30b571abefc0822da440925499e37a3083d77",
+    "original_repository_sha": "08d393a4178dee78ba8f7d6000fe7b7974fbc35b",
     "enhanced_repository": "enhansome/enhansome-azure-policy",
     "enhanced_repository_description": null,
     "title": "Awesome Azure Policy with stars"
