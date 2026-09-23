@@ -60,11 +60,11 @@
             "id": 337162838,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-09-22T06:37:00Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-22T22:58:33Z",
+            "open_issues": 19,
             "owner": "Azure",
             "repo": "enterprise-azure-policy-as-code",
-            "stars": 553,
+            "stars": 554,
             "topics": [
               "azure",
               "azure-pipeline",
@@ -92,7 +92,7 @@
             "open_issues": 5,
             "owner": "Azure",
             "repo": "Azure-Landing-Zones-Library",
-            "stars": 156,
+            "stars": 157,
             "topics": [
               "azure",
               "azure-policies",
@@ -252,7 +252,7 @@
             "open_issues": 0,
             "owner": "JulianHayward",
             "repo": "Azure-MG-Sub-Governance-Reporting",
-            "stars": 980,
+            "stars": 981,
             "topics": [
               "azure",
               "azure-policies",
@@ -727,6 +727,27 @@
         },
         {
           "node_type": "item",
+          "title": "siddharthtanna7/azpolicygenerator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 970844218,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2025-04-23T15:53:14Z",
+            "open_issues": 0,
+            "owner": "siddharthtanna7",
+            "repo": "AzPolicyGenerator",
+            "stars": 6,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:59:12.107Z"
+        },
+        {
+          "node_type": "item",
           "title": "claranet/terraform-azurerm-policy",
           "description": null,
           "children": [],
@@ -748,27 +769,6 @@
               "module",
               "terraform"
             ]
-          },
-          "first_seen": "2026-08-28T20:59:12.107Z"
-        },
-        {
-          "node_type": "item",
-          "title": "siddharthtanna7/azpolicygenerator",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 970844218,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2025-04-23T15:53:14Z",
-            "open_issues": 0,
-            "owner": "siddharthtanna7",
-            "repo": "AzPolicyGenerator",
-            "stars": 5,
-            "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
         },
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T14:09:59.103Z",
+    "last_updated": "2026-09-23T14:24:37.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon",
@@ -966,7 +966,7 @@
       "open_issues": 0,
       "owner": "globalbao",
       "repo": "awesome-azure-policy",
-      "stars": 546,
+      "stars": 547,
       "topics": [
         "awesome",
         "awesome-list",
