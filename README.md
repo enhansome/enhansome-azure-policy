@@ -175,7 +175,7 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 
 ## Microsoft Repositories and Tools
 
-* [azure/azure-policy](https://github.com/azure/azure-policy) ⭐ 1,696 | 🐛 321 | 🌐 Open Policy Agent | 📅 2026-09-20
+* [azure/azure-policy](https://github.com/azure/azure-policy) ⭐ 1,696 | 🐛 322 | 🌐 Open Policy Agent | 📅 2026-09-20
 * [azure/community-policy](https://github.com/azure/community-policy) ⭐ 710 | 🐛 13 | 🌐 Open Policy Agent | 📅 2026-09-08
 * [azure/enterprise-azure-policy-as-code](https://github.com/azure/enterprise-azure-policy-as-code) ⭐ 554 | 🐛 18 | 🌐 PowerShell | 📅 2026-09-24
 * [azure/azure-landing-zones-library](https://github.com/Azure/Azure-Landing-Zones-Library) ⭐ 157 | 🐛 5 | 🌐 PowerShell | 📅 2026-09-14
@@ -504,4 +504,4 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
