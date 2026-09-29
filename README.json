@@ -16,10 +16,10 @@
             "language": "Open Policy Agent",
             "license": "MIT",
             "last_commit": "2026-09-20T16:06:53Z",
-            "open_issues": 322,
+            "open_issues": 323,
             "owner": "Azure",
             "repo": "azure-policy",
-            "stars": 1697,
+            "stars": 1698,
             "topics": [
               "azure",
               "policy"
@@ -60,8 +60,8 @@
             "id": 337162838,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-09-28T13:45:34Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-28T18:51:38Z",
+            "open_issues": 18,
             "owner": "Azure",
             "repo": "enterprise-azure-policy-as-code",
             "stars": 554,
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T17:47:54.412Z",
+    "last_updated": "2026-09-29T16:06:21.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon",
