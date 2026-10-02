@@ -16,10 +16,10 @@
             "language": "Open Policy Agent",
             "license": "MIT",
             "last_commit": "2026-09-20T16:06:53Z",
-            "open_issues": 324,
+            "open_issues": 325,
             "owner": "Azure",
             "repo": "azure-policy",
-            "stars": 1697,
+            "stars": 1695,
             "topics": [
               "azure",
               "policy"
@@ -64,7 +64,7 @@
             "open_issues": 18,
             "owner": "Azure",
             "repo": "enterprise-azure-policy-as-code",
-            "stars": 554,
+            "stars": 555,
             "topics": [
               "azure",
               "azure-pipeline",
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T16:41:03.110Z",
+    "last_updated": "2026-10-02T15:57:34.657Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon",
@@ -966,7 +966,7 @@
       "open_issues": 0,
       "owner": "globalbao",
       "repo": "awesome-azure-policy",
-      "stars": 547,
+      "stars": 546,
       "topics": [
         "awesome",
         "awesome-list",
