@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "azure/azure-policy",
-          "description": null,
+          "description": "Azure/azure-policy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -30,7 +30,7 @@
         {
           "node_type": "item",
           "title": "azure/community-policy",
-          "description": null,
+          "description": "Azure/Community-Policy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -51,7 +51,7 @@
         {
           "node_type": "item",
           "title": "azure/enterprise-azure-policy-as-code",
-          "description": null,
+          "description": "Azure/enterprise-azure-policy-as-code",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -79,7 +79,7 @@
         {
           "node_type": "item",
           "title": "azure/azure-landing-zones-library",
-          "description": null,
+          "description": "Azure/Azure-Landing-Zones-Library",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -107,7 +107,7 @@
         {
           "node_type": "item",
           "title": "azure/policy-compliance-scan",
-          "description": null,
+          "description": "Azure/policy-compliance-scan",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -128,7 +128,7 @@
         {
           "node_type": "item",
           "title": "azure/manage-azure-policy",
-          "description": null,
+          "description": "Azure/manage-azure-policy",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -149,7 +149,7 @@
         {
           "node_type": "item",
           "title": "azure/azurepolicyagents",
-          "description": null,
+          "description": "Azure/AzurePolicyAgents",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -170,7 +170,7 @@
         {
           "node_type": "item",
           "title": "microsoft/azurepolicytestframework",
-          "description": null,
+          "description": "microsoft/AzurePolicyTestFramework",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -191,7 +191,7 @@
         {
           "node_type": "item",
           "title": "azure-samples/aca-azure-policy",
-          "description": null,
+          "description": "Azure-Samples/aca-azure-policy",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -212,7 +212,7 @@
         {
           "node_type": "item",
           "title": "azure/regulatory-compliance-initiatives",
-          "description": null,
+          "description": "Azure/regulatory-compliance-initiatives",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -239,7 +239,7 @@
         {
           "node_type": "item",
           "title": "julianhayward/azure-mg-sub-governance-reporting",
-          "description": null,
+          "description": "JulianHayward/Azure-MG-Sub-Governance-Reporting",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -266,7 +266,7 @@
         {
           "node_type": "item",
           "title": "globalbao/azure-policy-as-code",
-          "description": null,
+          "description": "globalbao/azure-policy-as-code",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -301,7 +301,7 @@
         {
           "node_type": "item",
           "title": "salesforce/cloud-guardrails",
-          "description": null,
+          "description": "salesforce/cloud-guardrails",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -328,7 +328,7 @@
         {
           "node_type": "item",
           "title": "gettek/terraform-azurerm-policy-as-code",
-          "description": null,
+          "description": "gettek/terraform-azurerm-policy-as-code",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -365,7 +365,7 @@
         {
           "node_type": "item",
           "title": "tyconsulting/azurepolicy",
-          "description": null,
+          "description": "TaoYang-Cloud/azurepolicy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -386,7 +386,7 @@
         {
           "node_type": "item",
           "title": "fawohlsc/azure-policy-testing",
-          "description": null,
+          "description": "fawohlsc/azure-policy-testing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -417,7 +417,7 @@
         {
           "node_type": "item",
           "title": "jimgbritt/azurepolicy",
-          "description": null,
+          "description": "JimGBritt/AzurePolicy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -438,7 +438,7 @@
         {
           "node_type": "item",
           "title": "matthiasguentert/azure-naming-convention-initiative",
-          "description": null,
+          "description": "matthiasguentert/azure-naming-convention-initiative",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -459,7 +459,7 @@
         {
           "node_type": "item",
           "title": "andrewmatveychuk/azure.policy",
-          "description": null,
+          "description": "andrewmatveychuk/azure.policy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -488,7 +488,7 @@
         {
           "node_type": "item",
           "title": "faridabharmal/azuregovernance",
-          "description": null,
+          "description": "faridabharmal/AzureGovernance",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -509,7 +509,7 @@
         {
           "node_type": "item",
           "title": "ricmmartins/azure-governance-made-simple",
-          "description": null,
+          "description": "ricmmartins/azure-governance-made-simple",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -530,7 +530,7 @@
         {
           "node_type": "item",
           "title": "tyconsulting/azure.policy.monitor",
-          "description": null,
+          "description": "TaoYang-Cloud/azure.policy.monitor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -551,7 +551,7 @@
         {
           "node_type": "item",
           "title": "robinchapas/converttopolicy",
-          "description": null,
+          "description": "robinchapas/ConvertToPolicy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -572,7 +572,7 @@
         {
           "node_type": "item",
           "title": "jannemattila/azure-policy-evaluator",
-          "description": null,
+          "description": "JanneMattila/azure-policy-evaluator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -596,7 +596,7 @@
         {
           "node_type": "item",
           "title": "kudelskisecurity/azure-policy-tester",
-          "description": null,
+          "description": "kudelskisecurity/azure-policy-tester",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -617,7 +617,7 @@
         {
           "node_type": "item",
           "title": "jamesdld/azure-policies",
-          "description": null,
+          "description": "JamesDLD/azure-policies",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -638,7 +638,7 @@
         {
           "node_type": "item",
           "title": "jimgbritt/azurediagnosticspipeline",
-          "description": null,
+          "description": "JimGBritt/AzureDiagnosticsPipeline",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -659,7 +659,7 @@
         {
           "node_type": "item",
           "title": "mattfeltonma/azure-custom-policies",
-          "description": null,
+          "description": "mattfeltonma/azure-custom-policies",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -680,7 +680,7 @@
         {
           "node_type": "item",
           "title": "azsec/azure-policy",
-          "description": null,
+          "description": "azsec/azure-policy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -701,7 +701,7 @@
         {
           "node_type": "item",
           "title": "globalbao/terraform-azurerm-policy-exemptions",
-          "description": null,
+          "description": "globalbao/terraform-azurerm-policy-exemptions",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -728,7 +728,7 @@
         {
           "node_type": "item",
           "title": "siddharthtanna7/azpolicygenerator",
-          "description": null,
+          "description": "siddharthtanna7/AzPolicyGenerator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -749,7 +749,7 @@
         {
           "node_type": "item",
           "title": "claranet/terraform-azurerm-policy",
-          "description": null,
+          "description": "claranet/terraform-azurerm-policy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -775,7 +775,7 @@
         {
           "node_type": "item",
           "title": "jtracey93/tf-az-dine-policy-assignment",
-          "description": null,
+          "description": "jtracey93/tf-az-dine-policy-assignment",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -801,7 +801,7 @@
         {
           "node_type": "item",
           "title": "stefanrothnet/azure-policy",
-          "description": null,
+          "description": "stefanrothnet/azure-policy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -822,7 +822,7 @@
         {
           "node_type": "item",
           "title": "charotamine/policytests",
-          "description": null,
+          "description": "charotAmine/policyTests",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -843,7 +843,7 @@
         {
           "node_type": "item",
           "title": "john-joyner/azure-policy",
-          "description": null,
+          "description": "john-joyner/azure-policy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -864,7 +864,7 @@
         {
           "node_type": "item",
           "title": "andrewcluey/terraform-azurerm-policy-definition",
-          "description": null,
+          "description": "andrewCluey/terraform-azurerm-policy-definition",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -885,7 +885,7 @@
         {
           "node_type": "item",
           "title": "charotamine/azurepolicy_bicep",
-          "description": null,
+          "description": "charotAmine/azurepolicy_Bicep",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -906,7 +906,7 @@
         {
           "node_type": "item",
           "title": "fawohlsc/azure-policy-samples",
-          "description": null,
+          "description": "fawohlsc/azure-policy-samples",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -931,7 +931,7 @@
         {
           "node_type": "item",
           "title": "yangdeal/azure_policy_deployment",
-          "description": null,
+          "description": "yangdeal/azure_policy_deployment",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:57:34.657Z",
+    "last_updated": "2026-10-03T04:33:23.630Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon",
