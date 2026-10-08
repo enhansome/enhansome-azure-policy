@@ -12,7 +12,7 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 | 🥈 **[charbelnemnom.com](https://charbelnemnom.com)**        | 14              |
 | 🥉 **[andrewmatveychuk.com](https://andrewmatveychuk.com)**  | 10              |
 | [medium.com](https://medium.com)                             | 8               |
-| [jloudon.com](https://jloudon.com)                           | 8               |
+| [jloudon.com](https://jloudon.com)                           | 9               |
 | [stefanroth.net](https://www.stefanroth.net)                 | 5               |
 | [georgeollis.com](https://www.georgeollis.com)               | 5               |
 | [azsec.azurewebsites.net](https://azsec.azurewebsites.net)   | 5               |
@@ -45,7 +45,7 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 * [Design Azure Policy as Code workflows](https://learn.microsoft.com/en-us/azure/governance/policy/concepts/policy-as-code)
 * [Enterprise Policy As Code (EPAC)](https://azure.github.io/enterprise-azure-policy-as-code/)
 * [Get compliance data of Azure resources](https://learn.microsoft.com/en-us/azure/governance/policy/how-to/get-compliance-data)
-* [Policies included in Azure Landing Zones reference implementations](https://github.com/Azure/Enterprise-Scale/blob/main/docs/ESLZ-Policies.md) ⭐ 1,962 | 🐛 5 | 🌐 PowerShell | 📅 2026-10-05
+* [Policies included in Azure Landing Zones reference implementations](https://github.com/Azure/Enterprise-Scale/blob/main/docs/ESLZ-Policies.md) ⭐ 1,962 | 🐛 4 | 🌐 PowerShell | 📅 2026-10-08
 * [Secure your cluster with Azure Policy](https://docs.microsoft.com/en-us/azure/aks/use-azure-policy?toc=/azure/governance/policy/toc.json\&bc=/azure/governance/policy/breadcrumb/toc.json)
 * [Remediate non-compliant resources with Azure Policy](https://learn.microsoft.com/en-us/azure/governance/policy/how-to/remediate-resources?tabs=azure-portal)
 * [Safe deployment of Azure Policy assignments](https://learn.microsoft.com/en-us/azure/governance/policy/how-to/policy-safe-deployment-practices)
@@ -155,6 +155,7 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 * [New and updated regulatory compliance policy initiatives for NIST, FedRAMP, DoD in Azure, Azure Government](https://devblogs.microsoft.com/azuregov/new-and-updated-regulatory-compliance-policy-initiatives-for-nist-fedramp-dod-in-azure-azure-government/)
 * [New feature: easily assign regulatory compliance policies to your Azure Landing Zone](https://techcommunity.microsoft.com/t5/azure-architecture-blog/new-feature-easily-assign-regulatory-compliance-policies-to-your/ba-p/4074957)
 * [On Prem To the Cloud: Everything As Code](https://devblogs.microsoft.com/devops/on-prem-to-the-cloud-everything-as-code-ep-4/)
+* [Open Sourcing the Azure Policy Linter!](https://techcommunity.microsoft.com/blog/azuregovernanceandmanagementblog/open-sourcing-the-azure-policy-linter/4547577)
 * [OPS114: Governing baselines in hybrid server environments using Azure Policy Guest Configuration](https://techcommunity.microsoft.com/t5/itops-talk-blog/ops114-governing-baselines-in-hybrid-server-environments-using/ba-p/2109245)
 * [Policy Distribution Dashboard for Microsoft Defender for Cloud](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/policy-distribution-dashboard-for-microsoft-defender-for-cloud/ba-p/3264712)
 * [Public Preview Announcement: Azure Policy Built-in Versioning](https://techcommunity.microsoft.com/t5/azure-governance-and-management/public-preview-announcement-azure-policy-built-in-versioning/ba-p/4186105)
@@ -183,6 +184,7 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 * [azure/manage-azure-policy](https://github.com/azure/manage-azure-policy) ⚠️ Archived
 * [azure/azurepolicyagents](https://github.com/Azure/AzurePolicyAgents) ⭐ 40 | 🐛 8 | 🌐 PowerShell | 📅 2026-09-14
 * [microsoft/azurepolicytestframework](https://github.com/microsoft/AzurePolicyTestFramework) ⭐ 40 | 🐛 10 | 🌐 HCL | 📅 2026-09-01
+* [azure/azure-policy-linter](https://github.com/Azure/azure-policy-linter) ⭐ 27 | 🐛 37 | 🌐 C# | 📅 2026-10-04
 * [azure-samples/aca-azure-policy](https://github.com/Azure-Samples/aca-azure-policy) ⚠️ Archived
 * [azure/regulatory-compliance-initiatives](https://github.com/Azure/regulatory-compliance-initiatives) ⚠️ Archived
 * [azure cyber security maturity model (CMMC) policy mapping](https://aka.ms/cmmc/alzmap)
@@ -274,6 +276,7 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 * [Audit Server Settings With Azure Policy Guest Configuration](https://www.thomasmaurer.ch/2021/03/audit-server-settings-with-azure-policy-guest-configuration/)
 * [Audit Subnets That Do Not Have Network Security Group Associated](https://charbelnemnom.com/audit-subnets-that-do-not-have-network-security-group-associated/)
 * [Auditing GPOs with Azure Guest Configuration Policy](https://manbearpiet.com/posts/guest-configuration-policy/)
+* [Awesome Azure Policy Chapter 3](https://jloudon.com/cloud/awesome-azure-policy-chapter-3/)
 * [Auto Install Azure Monitor Agent with Azure Policy](https://www.cloudsma.com/2018/10/auto-install-azure-monitor-agent-with-azure-policy/)
 * [Automatic Tagging For Azure Resources](https://andrewmatveychuk.com/automatic-tagging-for-azure-resources/)
 * [Automatically Enable Microsoft Defender For Cloud Enhanced Security Features](https://samilamppu.com/2021/12/28/automatically-enable-microsoft-defender-for-cloud-enhanced-security-features/)
@@ -318,6 +321,7 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 * [Azure Policy Search with Azure Graph](https://zigmax.net/azure-policy-search-with-azure-graph/)
 * [Azure Policy To Enable Network Policies For Private Endpoints](https://www.cloudcorner.gr/microsoft/azure/azure-policy-to-enable-network-policies-for-private-endpoints/)
 * [Azure Policy Where To Start](https://wedoazure.ie/2019/08/22/azure-policy-where-to-start/)
+* [Azure Policy: 5 Must-Have Rules for Every Environment](https://intercept.cloud/en-gb/blogs/azure-policy)
 * [Azure Policy: Kubernetes pod security baseline explained](https://blog.baeke.info/2021/03/03/azure-policy-kubernetes-pod-security-baseline-explained/)
 * [Azure Policy: Starter Guide](https://andrewmatveychuk.com/azure-policy-starter-guide/)
 * [Azure Policy: Deny Log Analytics Workspaces creation without Daily Quota](https://rios.engineer/azure-policy-deny-log-analytics-workspaces-creation-without-daily-quota/)
@@ -452,13 +456,14 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 * [Walkthrough Using Azure Policy To Audit And Enforce Compliance](https://azuredays.com/2020/07/09/walkthrough-using-azure-policy-to-audit-and-enforce-compliance/)
 * [What are Azure Policy Overrides?](https://www.georgeollis.com/what-are-azure-policy-overrides/)
 * [What you need to know about managing Azure Policy at scale](https://www.amdocs.com/insights/blog/what-you-need-know-about-managing-azure-policy-scale)
+* [Why Azure Policy is Powerful but Still Complex to Deliver](https://www.reply.com/valorem-reply/en/resources/insights/blog/uk/why-azure-policy-is-powerful-but-still-complex-to-deliver)
 * [Who polices your policies? Azure policy abuse for privileges escalation and persistence](https://securitylabs.datadoghq.com/articles/azure-policy-privilege-escalation/)
 * [Writing A Custom Azure Policy](https://journeyofthegeek.com/2021/03/07/writing-a-custom-azure-policy/)
 
 ## Community Tools
 
 * [AzAdvertizer](https://www.azadvertizer.net/)
-* [AzGovViz](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting) ⭐ 981 | 🐛 0 | 🌐 PowerShell | 📅 2026-09-11
+* [AzGovViz](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting) ⭐ 981 | 🐛 1 | 🌐 PowerShell | 📅 2026-09-11
 * [Azure Policy Intellisense](https://marketplace.visualstudio.com/items?itemName=justin-grote.azure-policy-intellisense)
 * [Azure Policy and Governance Pipelines Tasks](https://marketplace.visualstudio.com/items?itemName=razorspoint.rp-build-release-azurepolicy)
 * [Cloud Guardrails](https://cloud-guardrails.readthedocs.io/en/latest/)
@@ -466,7 +471,7 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 
 ## Community Repositories
 
-* [julianhayward/azure-mg-sub-governance-reporting](https://github.com/julianhayward/azure-mg-sub-governance-reporting) ⭐ 981 | 🐛 0 | 🌐 PowerShell | 📅 2026-09-11
+* [julianhayward/azure-mg-sub-governance-reporting](https://github.com/julianhayward/azure-mg-sub-governance-reporting) ⭐ 981 | 🐛 1 | 🌐 PowerShell | 📅 2026-09-11
 * [globalbao/azure-policy-as-code](https://github.com/globalbao/azure-policy-as-code) ⭐ 186 | 🐛 4 | 🌐 HCL | 📅 2024-04-20
 * [salesforce/cloud-guardrails](https://github.com/salesforce/cloud-guardrails) ⚠️ Archived
 * [gettek/terraform-azurerm-policy-as-code](https://github.com/gettek/terraform-azurerm-policy-as-code) ⭐ 172 | 🐛 0 | 🌐 HCL | 📅 2026-08-20
@@ -487,7 +492,7 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 * [azsec/azure-policy](https://github.com/azsec/azure-policy) ⭐ 6 | 🐛 1 | 🌐 Shell | 📅 2023-01-10
 * [globalbao/terraform-azurerm-policy-exemptions](https://github.com/globalbao/terraform-azurerm-policy-exemptions) ⚠️ Archived
 * [siddharthtanna7/azpolicygenerator](https://github.com/siddharthtanna7/AzPolicyGenerator) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2025-04-23
-* [claranet/terraform-azurerm-policy](https://github.com/claranet/terraform-azurerm-policy) ⭐ 5 | 🐛 0 | 🌐 HCL | 📅 2026-08-25
+* [claranet/terraform-azurerm-policy](https://github.com/claranet/terraform-azurerm-policy) ⭐ 5 | 🐛 0 | 🌐 HCL | 📅 2026-10-08
 * [jtracey93/tf-az-dine-policy-assignment](https://github.com/jtracey93/tf-az-dine-policy-assignment) ⭐ 4 | 🐛 0 | 🌐 HCL | 📅 2021-02-03
 * [stefanrothnet/azure-policy](https://github.com/stefanrothnet/azure-policy) ⭐ 4 | 🐛 2 | 📅 2020-02-03
 * [charotamine/policytests](https://github.com/charotamine/policytests) ⭐ 3 | 🐛 0 | 🌐 HCL | 📅 2021-09-10
@@ -504,4 +509,4 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
