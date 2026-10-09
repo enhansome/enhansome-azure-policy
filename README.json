@@ -19,7 +19,7 @@
             "open_issues": 324,
             "owner": "Azure",
             "repo": "azure-policy",
-            "stars": 1696,
+            "stars": 1695,
             "topics": [
               "azure",
               "policy"
@@ -975,7 +975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T16:54:58.603Z",
+    "last_updated": "2026-10-09T16:32:17.867Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon",
