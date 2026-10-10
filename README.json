@@ -39,8 +39,8 @@
             "id": 221338252,
             "language": "Open Policy Agent",
             "license": "MIT",
-            "last_commit": "2026-09-08T21:11:29Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-09T23:16:42Z",
+            "open_issues": 12,
             "owner": "Azure",
             "repo": "Community-Policy",
             "stars": 709,
@@ -975,7 +975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T16:32:17.867Z",
+    "last_updated": "2026-10-10T15:33:41.564Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon",
