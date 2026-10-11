@@ -40,7 +40,7 @@
             "language": "Open Policy Agent",
             "license": "MIT",
             "last_commit": "2026-10-09T23:16:42Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "Azure",
             "repo": "Community-Policy",
             "stars": 709,
@@ -200,7 +200,7 @@
             "id": 1157425580,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-04T13:13:38Z",
+            "last_commit": "2026-10-11T13:15:20Z",
             "open_issues": 37,
             "owner": "Azure",
             "repo": "azure-policy-linter",
@@ -975,7 +975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T15:33:41.564Z",
+    "last_updated": "2026-10-11T15:56:55.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon",
