@@ -184,7 +184,7 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 * [azure/manage-azure-policy](https://github.com/azure/manage-azure-policy) ⚠️ Archived
 * [azure/azurepolicyagents](https://github.com/Azure/AzurePolicyAgents) ⭐ 40 | 🐛 8 | 🌐 PowerShell | 📅 2026-09-14
 * [microsoft/azurepolicytestframework](https://github.com/microsoft/AzurePolicyTestFramework) ⭐ 40 | 🐛 10 | 🌐 HCL | 📅 2026-09-01
-* [azure/azure-policy-linter](https://github.com/Azure/azure-policy-linter) ⭐ 27 | 🐛 37 | 🌐 C# | 📅 2026-10-11
+* [azure/azure-policy-linter](https://github.com/Azure/azure-policy-linter) ⭐ 27 | 🐛 35 | 🌐 C# | 📅 2026-10-16
 * [azure-samples/aca-azure-policy](https://github.com/Azure-Samples/aca-azure-policy) ⚠️ Archived
 * [azure/regulatory-compliance-initiatives](https://github.com/Azure/regulatory-compliance-initiatives) ⚠️ Archived
 * [azure cyber security maturity model (CMMC) policy mapping](https://aka.ms/cmmc/alzmap)
@@ -463,7 +463,7 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 ## Community Tools
 
 * [AzAdvertizer](https://www.azadvertizer.net/)
-* [AzGovViz](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting) ⭐ 981 | 🐛 1 | 🌐 PowerShell | 📅 2026-09-11
+* [AzGovViz](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting) ⭐ 983 | 🐛 1 | 🌐 PowerShell | 📅 2026-09-11
 * [Azure Policy Intellisense](https://marketplace.visualstudio.com/items?itemName=justin-grote.azure-policy-intellisense)
 * [Azure Policy and Governance Pipelines Tasks](https://marketplace.visualstudio.com/items?itemName=razorspoint.rp-build-release-azurepolicy)
 * [Cloud Guardrails](https://cloud-guardrails.readthedocs.io/en/latest/)
@@ -471,7 +471,7 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 
 ## Community Repositories
 
-* [julianhayward/azure-mg-sub-governance-reporting](https://github.com/julianhayward/azure-mg-sub-governance-reporting) ⭐ 981 | 🐛 1 | 🌐 PowerShell | 📅 2026-09-11
+* [julianhayward/azure-mg-sub-governance-reporting](https://github.com/julianhayward/azure-mg-sub-governance-reporting) ⭐ 983 | 🐛 1 | 🌐 PowerShell | 📅 2026-09-11
 * [globalbao/azure-policy-as-code](https://github.com/globalbao/azure-policy-as-code) ⭐ 186 | 🐛 4 | 🌐 HCL | 📅 2024-04-20
 * [salesforce/cloud-guardrails](https://github.com/salesforce/cloud-guardrails) ⚠️ Archived
 * [gettek/terraform-azurerm-policy-as-code](https://github.com/gettek/terraform-azurerm-policy-as-code) ⭐ 173 | 🐛 0 | 🌐 HCL | 📅 2026-08-20
@@ -509,4 +509,4 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._

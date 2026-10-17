@@ -200,8 +200,8 @@
             "id": 1157425580,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-11T13:15:20Z",
-            "open_issues": 37,
+            "last_commit": "2026-10-16T16:03:25Z",
+            "open_issues": 35,
             "owner": "Azure",
             "repo": "azure-policy-linter",
             "stars": 27,
@@ -273,7 +273,7 @@
             "open_issues": 1,
             "owner": "JulianHayward",
             "repo": "Azure-MG-Sub-Governance-Reporting",
-            "stars": 981,
+            "stars": 983,
             "topics": [
               "azure",
               "azure-policies",
@@ -975,7 +975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T14:12:39.149Z",
+    "last_updated": "2026-10-17T13:10:07.625Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon",
