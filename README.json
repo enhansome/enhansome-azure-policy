@@ -15,8 +15,8 @@
             "id": 98492017,
             "language": "Open Policy Agent",
             "license": "MIT",
-            "last_commit": "2026-10-19T20:04:06Z",
-            "open_issues": 322,
+            "last_commit": "2026-10-23T17:50:23Z",
+            "open_issues": 323,
             "owner": "Azure",
             "repo": "azure-policy",
             "stars": 1696,
@@ -200,8 +200,8 @@
             "id": 1157425580,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-22T22:58:24Z",
-            "open_issues": 36,
+            "last_commit": "2026-10-23T17:39:45Z",
+            "open_issues": 35,
             "owner": "Azure",
             "repo": "azure-policy-linter",
             "stars": 27,
@@ -975,7 +975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T14:24:36.511Z",
+    "last_updated": "2026-10-24T13:34:09.489Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon",
@@ -987,7 +987,7 @@
       "open_issues": 0,
       "owner": "globalbao",
       "repo": "awesome-azure-policy",
-      "stars": 547,
+      "stars": 548,
       "topics": [
         "awesome",
         "awesome-list",
