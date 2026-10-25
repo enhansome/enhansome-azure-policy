@@ -177,14 +177,14 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 ## Microsoft Repositories and Tools
 
 * [azure/azure-policy](https://github.com/azure/azure-policy) ⭐ 1,696 | 🐛 323 | 🌐 Open Policy Agent | 📅 2026-10-23
-* [azure/community-policy](https://github.com/azure/community-policy) ⭐ 709 | 🐛 5 | 🌐 Open Policy Agent | 📅 2026-10-19
+* [azure/community-policy](https://github.com/azure/community-policy) ⭐ 710 | 🐛 5 | 🌐 Open Policy Agent | 📅 2026-10-19
 * [azure/enterprise-azure-policy-as-code](https://github.com/azure/enterprise-azure-policy-as-code) ⭐ 556 | 🐛 16 | 🌐 PowerShell | 📅 2026-10-22
 * [azure/azure-landing-zones-library](https://github.com/Azure/Azure-Landing-Zones-Library) ⭐ 158 | 🐛 7 | 🌐 PowerShell | 📅 2026-10-23
 * [azure/policy-compliance-scan](https://github.com/azure/policy-compliance-scan) ⭐ 66 | 🐛 16 | 🌐 JavaScript | 📅 2024-08-10
 * [azure/manage-azure-policy](https://github.com/azure/manage-azure-policy) ⚠️ Archived
 * [azure/azurepolicyagents](https://github.com/Azure/AzurePolicyAgents) ⭐ 40 | 🐛 8 | 🌐 PowerShell | 📅 2026-09-14
 * [microsoft/azurepolicytestframework](https://github.com/microsoft/AzurePolicyTestFramework) ⭐ 40 | 🐛 11 | 🌐 HCL | 📅 2026-10-20
-* [azure/azure-policy-linter](https://github.com/Azure/azure-policy-linter) ⭐ 27 | 🐛 35 | 🌐 C# | 📅 2026-10-23
+* [azure/azure-policy-linter](https://github.com/Azure/azure-policy-linter) ⭐ 27 | 🐛 37 | 🌐 C# | 📅 2026-10-25
 * [azure-samples/aca-azure-policy](https://github.com/Azure-Samples/aca-azure-policy) ⚠️ Archived
 * [azure/regulatory-compliance-initiatives](https://github.com/Azure/regulatory-compliance-initiatives) ⚠️ Archived
 * [azure cyber security maturity model (CMMC) policy mapping](https://aka.ms/cmmc/alzmap)
@@ -509,4 +509,4 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
