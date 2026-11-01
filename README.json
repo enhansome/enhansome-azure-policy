@@ -92,7 +92,7 @@
             "open_issues": 7,
             "owner": "Azure",
             "repo": "Azure-Landing-Zones-Library",
-            "stars": 159,
+            "stars": 160,
             "topics": [
               "azure",
               "azure-policies",
@@ -975,7 +975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T15:29:25.554Z",
+    "last_updated": "2026-11-01T16:19:50.009Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon",

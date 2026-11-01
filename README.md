@@ -179,7 +179,7 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 * [azure/azure-policy](https://github.com/azure/azure-policy) ⭐ 1,697 | 🐛 323 | 🌐 Open Policy Agent | 📅 2026-10-28
 * [azure/community-policy](https://github.com/azure/community-policy) ⭐ 711 | 🐛 5 | 🌐 Open Policy Agent | 📅 2026-10-19
 * [azure/enterprise-azure-policy-as-code](https://github.com/azure/enterprise-azure-policy-as-code) ⭐ 555 | 🐛 18 | 🌐 PowerShell | 📅 2026-10-30
-* [azure/azure-landing-zones-library](https://github.com/Azure/Azure-Landing-Zones-Library) ⭐ 159 | 🐛 7 | 🌐 PowerShell | 📅 2026-10-26
+* [azure/azure-landing-zones-library](https://github.com/Azure/Azure-Landing-Zones-Library) ⭐ 160 | 🐛 7 | 🌐 PowerShell | 📅 2026-10-26
 * [azure/policy-compliance-scan](https://github.com/azure/policy-compliance-scan) ⭐ 66 | 🐛 16 | 🌐 JavaScript | 📅 2024-08-10
 * [azure/manage-azure-policy](https://github.com/azure/manage-azure-policy) ⚠️ Archived
 * [azure/azurepolicyagents](https://github.com/Azure/AzurePolicyAgents) ⭐ 40 | 🐛 8 | 🌐 PowerShell | 📅 2026-09-14
@@ -509,4 +509,4 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
