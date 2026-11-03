@@ -88,7 +88,7 @@
             "id": 764046303,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-11-02T08:18:23Z",
+            "last_commit": "2026-11-03T09:18:05Z",
             "open_issues": 7,
             "owner": "Azure",
             "repo": "Azure-Landing-Zones-Library",
@@ -270,7 +270,7 @@
             "language": "PowerShell",
             "license": "MIT",
             "last_commit": "2026-09-11T16:29:00Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "JulianHayward",
             "repo": "Azure-MG-Sub-Governance-Reporting",
             "stars": 986,
@@ -975,7 +975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T19:45:33.012Z",
+    "last_updated": "2026-11-03T17:18:07.711Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon",
