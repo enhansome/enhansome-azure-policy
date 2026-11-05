@@ -16,10 +16,10 @@
             "language": "Open Policy Agent",
             "license": "MIT",
             "last_commit": "2026-10-28T18:31:12Z",
-            "open_issues": 323,
+            "open_issues": 324,
             "owner": "Azure",
             "repo": "azure-policy",
-            "stars": 1697,
+            "stars": 1696,
             "topics": [
               "azure",
               "policy"
@@ -60,8 +60,8 @@
             "id": 337162838,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-11-02T06:46:19Z",
-            "open_issues": 19,
+            "last_commit": "2026-11-04T23:51:13Z",
+            "open_issues": 17,
             "owner": "Azure",
             "repo": "enterprise-azure-policy-as-code",
             "stars": 557,
@@ -88,11 +88,11 @@
             "id": 764046303,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-11-03T09:18:05Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-05T08:19:09Z",
+            "open_issues": 5,
             "owner": "Azure",
             "repo": "Azure-Landing-Zones-Library",
-            "stars": 160,
+            "stars": 159,
             "topics": [
               "azure",
               "azure-policies",
@@ -200,11 +200,11 @@
             "id": 1157425580,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-04T00:16:54Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-05T17:29:08Z",
+            "open_issues": 21,
             "owner": "Azure",
             "repo": "azure-policy-linter",
-            "stars": 27,
+            "stars": 28,
             "topics": []
           },
           "first_seen": "2026-10-08T16:54:58.603Z"
@@ -975,7 +975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T17:29:05.522Z",
+    "last_updated": "2026-11-05T17:37:18.436Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon",
@@ -987,7 +987,7 @@
       "open_issues": 0,
       "owner": "globalbao",
       "repo": "awesome-azure-policy",
-      "stars": 549,
+      "stars": 550,
       "topics": [
         "awesome",
         "awesome-list",
