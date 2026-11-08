@@ -200,11 +200,11 @@
             "id": 1157425580,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-06T00:19:24Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-08T13:12:41Z",
+            "open_issues": 21,
             "owner": "Azure",
             "repo": "azure-policy-linter",
-            "stars": 28,
+            "stars": 29,
             "topics": []
           },
           "first_seen": "2026-10-08T16:54:58.603Z"
@@ -975,7 +975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T15:53:55.879Z",
+    "last_updated": "2026-11-08T16:17:34.624Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon",
