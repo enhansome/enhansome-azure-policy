@@ -19,7 +19,7 @@
             "open_issues": 324,
             "owner": "Azure",
             "repo": "azure-policy",
-            "stars": 1696,
+            "stars": 1695,
             "topics": [
               "azure",
               "policy"
@@ -60,11 +60,11 @@
             "id": 337162838,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-11-04T23:51:13Z",
+            "last_commit": "2026-11-09T05:51:31Z",
             "open_issues": 20,
             "owner": "Azure",
             "repo": "enterprise-azure-policy-as-code",
-            "stars": 558,
+            "stars": 559,
             "topics": [
               "azure",
               "azure-pipeline",
@@ -89,10 +89,10 @@
             "language": "PowerShell",
             "license": "MIT",
             "last_commit": "2026-11-06T08:49:16Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "Azure",
             "repo": "Azure-Landing-Zones-Library",
-            "stars": 159,
+            "stars": 160,
             "topics": [
               "azure",
               "azure-policies",
@@ -273,7 +273,7 @@
             "open_issues": 4,
             "owner": "JulianHayward",
             "repo": "Azure-MG-Sub-Governance-Reporting",
-            "stars": 986,
+            "stars": 987,
             "topics": [
               "azure",
               "azure-policies",
@@ -779,7 +779,7 @@
             "id": 221944750,
             "language": "HCL",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T19:25:13Z",
+            "last_commit": "2026-11-09T18:57:27Z",
             "open_issues": 0,
             "owner": "claranet",
             "repo": "terraform-azurerm-policy",
@@ -975,7 +975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T16:17:34.624Z",
+    "last_updated": "2026-11-09T20:01:56.915Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon",
@@ -987,7 +987,7 @@
       "open_issues": 0,
       "owner": "globalbao",
       "repo": "awesome-azure-policy",
-      "stars": 551,
+      "stars": 552,
       "topics": [
         "awesome",
         "awesome-list",

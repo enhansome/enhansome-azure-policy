@@ -176,10 +176,10 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 
 ## Microsoft Repositories and Tools
 
-* [azure/azure-policy](https://github.com/azure/azure-policy) ⭐ 1,696 | 🐛 324 | 🌐 Open Policy Agent | 📅 2026-10-28
+* [azure/azure-policy](https://github.com/azure/azure-policy) ⭐ 1,695 | 🐛 324 | 🌐 Open Policy Agent | 📅 2026-10-28
 * [azure/community-policy](https://github.com/azure/community-policy) ⭐ 711 | 🐛 6 | 🌐 Open Policy Agent | 📅 2026-10-19
-* [azure/enterprise-azure-policy-as-code](https://github.com/azure/enterprise-azure-policy-as-code) ⭐ 558 | 🐛 20 | 🌐 PowerShell | 📅 2026-11-04
-* [azure/azure-landing-zones-library](https://github.com/Azure/Azure-Landing-Zones-Library) ⭐ 159 | 🐛 3 | 🌐 PowerShell | 📅 2026-11-06
+* [azure/enterprise-azure-policy-as-code](https://github.com/azure/enterprise-azure-policy-as-code) ⭐ 559 | 🐛 20 | 🌐 PowerShell | 📅 2026-11-09
+* [azure/azure-landing-zones-library](https://github.com/Azure/Azure-Landing-Zones-Library) ⭐ 160 | 🐛 4 | 🌐 PowerShell | 📅 2026-11-06
 * [azure/policy-compliance-scan](https://github.com/azure/policy-compliance-scan) ⭐ 66 | 🐛 16 | 🌐 JavaScript | 📅 2024-08-10
 * [azure/manage-azure-policy](https://github.com/azure/manage-azure-policy) ⚠️ Archived
 * [azure/azurepolicyagents](https://github.com/Azure/AzurePolicyAgents) ⭐ 40 | 🐛 8 | 🌐 PowerShell | 📅 2026-09-14
@@ -463,7 +463,7 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 ## Community Tools
 
 * [AzAdvertizer](https://www.azadvertizer.net/)
-* [AzGovViz](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting) ⭐ 986 | 🐛 4 | 🌐 PowerShell | 📅 2026-09-11
+* [AzGovViz](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting) ⭐ 987 | 🐛 4 | 🌐 PowerShell | 📅 2026-09-11
 * [Azure Policy Intellisense](https://marketplace.visualstudio.com/items?itemName=justin-grote.azure-policy-intellisense)
 * [Azure Policy and Governance Pipelines Tasks](https://marketplace.visualstudio.com/items?itemName=razorspoint.rp-build-release-azurepolicy)
 * [Cloud Guardrails](https://cloud-guardrails.readthedocs.io/en/latest/)
@@ -471,7 +471,7 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 
 ## Community Repositories
 
-* [julianhayward/azure-mg-sub-governance-reporting](https://github.com/julianhayward/azure-mg-sub-governance-reporting) ⭐ 986 | 🐛 4 | 🌐 PowerShell | 📅 2026-09-11
+* [julianhayward/azure-mg-sub-governance-reporting](https://github.com/julianhayward/azure-mg-sub-governance-reporting) ⭐ 987 | 🐛 4 | 🌐 PowerShell | 📅 2026-09-11
 * [globalbao/azure-policy-as-code](https://github.com/globalbao/azure-policy-as-code) ⭐ 186 | 🐛 4 | 🌐 HCL | 📅 2024-04-20
 * [salesforce/cloud-guardrails](https://github.com/salesforce/cloud-guardrails) ⚠️ Archived
 * [gettek/terraform-azurerm-policy-as-code](https://github.com/gettek/terraform-azurerm-policy-as-code) ⭐ 173 | 🐛 0 | 🌐 HCL | 📅 2026-08-20
@@ -492,7 +492,7 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 * [azsec/azure-policy](https://github.com/azsec/azure-policy) ⭐ 6 | 🐛 1 | 🌐 Shell | 📅 2023-01-10
 * [globalbao/terraform-azurerm-policy-exemptions](https://github.com/globalbao/terraform-azurerm-policy-exemptions) ⚠️ Archived
 * [siddharthtanna7/azpolicygenerator](https://github.com/siddharthtanna7/AzPolicyGenerator) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2025-04-23
-* [claranet/terraform-azurerm-policy](https://github.com/claranet/terraform-azurerm-policy) ⭐ 5 | 🐛 0 | 🌐 HCL | 📅 2026-10-29
+* [claranet/terraform-azurerm-policy](https://github.com/claranet/terraform-azurerm-policy) ⭐ 5 | 🐛 0 | 🌐 HCL | 📅 2026-11-09
 * [jtracey93/tf-az-dine-policy-assignment](https://github.com/jtracey93/tf-az-dine-policy-assignment) ⭐ 4 | 🐛 0 | 🌐 HCL | 📅 2021-02-03
 * [stefanrothnet/azure-policy](https://github.com/stefanrothnet/azure-policy) ⭐ 4 | 🐛 2 | 📅 2020-02-03
 * [charotamine/policytests](https://github.com/charotamine/policytests) ⭐ 3 | 🐛 0 | 🌐 HCL | 📅 2021-09-10
@@ -509,4 +509,4 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
