@@ -61,7 +61,7 @@
             "language": "PowerShell",
             "license": "MIT",
             "last_commit": "2026-11-09T05:51:31Z",
-            "open_issues": 20,
+            "open_issues": 19,
             "owner": "Azure",
             "repo": "enterprise-azure-policy-as-code",
             "stars": 559,
@@ -273,7 +273,7 @@
             "open_issues": 4,
             "owner": "JulianHayward",
             "repo": "Azure-MG-Sub-Governance-Reporting",
-            "stars": 987,
+            "stars": 988,
             "topics": [
               "azure",
               "azure-policies",
@@ -975,7 +975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T20:01:56.915Z",
+    "last_updated": "2026-11-10T17:16:06.913Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon",
@@ -983,7 +983,7 @@
       "id": 445070068,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-07T23:16:21Z",
+      "last_commit": "2026-11-10T03:07:11Z",
       "open_issues": 0,
       "owner": "globalbao",
       "repo": "awesome-azure-policy",
@@ -1001,7 +1001,7 @@
         "policy-as-code"
       ]
     },
-    "original_repository_sha": "3ab75cb54d1cc3ced8755dcfe76235dfd166415b",
+    "original_repository_sha": "9bcbb94ec15493192d795ee167605026809eb801",
     "enhanced_repository": "enhansome/enhansome-azure-policy",
     "enhanced_repository_description": null,
     "title": "Awesome Azure Policy with stars"

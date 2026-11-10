@@ -4,28 +4,6 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 
 > Community contributions are welcome! Check out the [contribution guide](./CONTRIBUTING.md) today and submit a **pull request**!
 
-## Community Articles Leaderboard
-
-| Top-level Domain                                             | Number of Posts |
-| ------------------------------------------------------------ | --------------- |
-| 🏆 **[blog.tyang.org](https://blog.tyang.org)**              | 21              |
-| 🥈 **[charbelnemnom.com](https://charbelnemnom.com)**        | 14              |
-| 🥉 **[andrewmatveychuk.com](https://andrewmatveychuk.com)**  | 10              |
-| [medium.com](https://medium.com)                             | 8               |
-| [jloudon.com](https://jloudon.com)                           | 9               |
-| [stefanroth.net](https://www.stefanroth.net)                 | 5               |
-| [georgeollis.com](https://www.georgeollis.com)               | 5               |
-| [azsec.azurewebsites.net](https://azsec.azurewebsites.net)   | 5               |
-| [wedoazure.ie](https://wedoazure.ie)                         | 4               |
-| [cloudsma.com](https://www.cloudsma.com)                     | 4               |
-| [yourazurecoach.com](https://yourazurecoach.com)             | 3               |
-| [m365princess.com](https://www.m365princess.com)             | 3               |
-| [kristhecodingunicorn.com](https://kristhecodingunicorn.com) | 3               |
-| [danielstechblog.io](https://www.danielstechblog.io)         | 3               |
-| [cloudcorner.gr](https://cloudcorner.gr)                     | 3               |
-| [cloudadministrator.net](https://cloudadministrator.net)     | 4               |
-| [thomasthornton.cloud](https://thomasthornton.cloud)         | 3               |
-
 ## Microsoft Learn
 
 * [Address Tangible Risks With The Govern Methodology Of The Cloud Adoption Framework For Azure](https://docs.microsoft.com/en-us/learn/modules/cloud-adoption-framework-govern/)
@@ -45,7 +23,7 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 * [Design Azure Policy as Code workflows](https://learn.microsoft.com/en-us/azure/governance/policy/concepts/policy-as-code)
 * [Enterprise Policy As Code (EPAC)](https://azure.github.io/enterprise-azure-policy-as-code/)
 * [Get compliance data of Azure resources](https://learn.microsoft.com/en-us/azure/governance/policy/how-to/get-compliance-data)
-* [Policies included in Azure Landing Zones reference implementations](https://github.com/Azure/Enterprise-Scale/blob/main/docs/ESLZ-Policies.md) ⭐ 1,968 | 🐛 11 | 🌐 PowerShell | 📅 2026-11-05
+* [Policies included in Azure Landing Zones reference implementations](https://github.com/Azure/Enterprise-Scale/blob/main/docs/ESLZ-Policies.md) ⭐ 1,968 | 🐛 11 | 🌐 PowerShell | 📅 2026-11-10
 * [Secure your cluster with Azure Policy](https://docs.microsoft.com/en-us/azure/aks/use-azure-policy?toc=/azure/governance/policy/toc.json\&bc=/azure/governance/policy/breadcrumb/toc.json)
 * [Remediate non-compliant resources with Azure Policy](https://learn.microsoft.com/en-us/azure/governance/policy/how-to/remediate-resources?tabs=azure-portal)
 * [Safe deployment of Azure Policy assignments](https://learn.microsoft.com/en-us/azure/governance/policy/how-to/policy-safe-deployment-practices)
@@ -178,7 +156,7 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 
 * [azure/azure-policy](https://github.com/azure/azure-policy) ⭐ 1,695 | 🐛 324 | 🌐 Open Policy Agent | 📅 2026-10-28
 * [azure/community-policy](https://github.com/azure/community-policy) ⭐ 711 | 🐛 6 | 🌐 Open Policy Agent | 📅 2026-10-19
-* [azure/enterprise-azure-policy-as-code](https://github.com/azure/enterprise-azure-policy-as-code) ⭐ 559 | 🐛 20 | 🌐 PowerShell | 📅 2026-11-09
+* [azure/enterprise-azure-policy-as-code](https://github.com/azure/enterprise-azure-policy-as-code) ⭐ 559 | 🐛 19 | 🌐 PowerShell | 📅 2026-11-09
 * [azure/azure-landing-zones-library](https://github.com/Azure/Azure-Landing-Zones-Library) ⭐ 160 | 🐛 4 | 🌐 PowerShell | 📅 2026-11-06
 * [azure/policy-compliance-scan](https://github.com/azure/policy-compliance-scan) ⭐ 66 | 🐛 16 | 🌐 JavaScript | 📅 2024-08-10
 * [azure/manage-azure-policy](https://github.com/azure/manage-azure-policy) ⚠️ Archived
@@ -463,7 +441,7 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 ## Community Tools
 
 * [AzAdvertizer](https://www.azadvertizer.net/)
-* [AzGovViz](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting) ⭐ 987 | 🐛 4 | 🌐 PowerShell | 📅 2026-09-11
+* [AzGovViz](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting) ⭐ 988 | 🐛 4 | 🌐 PowerShell | 📅 2026-09-11
 * [Azure Policy Intellisense](https://marketplace.visualstudio.com/items?itemName=justin-grote.azure-policy-intellisense)
 * [Azure Policy and Governance Pipelines Tasks](https://marketplace.visualstudio.com/items?itemName=razorspoint.rp-build-release-azurepolicy)
 * [Cloud Guardrails](https://cloud-guardrails.readthedocs.io/en/latest/)
@@ -471,7 +449,7 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 
 ## Community Repositories
 
-* [julianhayward/azure-mg-sub-governance-reporting](https://github.com/julianhayward/azure-mg-sub-governance-reporting) ⭐ 987 | 🐛 4 | 🌐 PowerShell | 📅 2026-09-11
+* [julianhayward/azure-mg-sub-governance-reporting](https://github.com/julianhayward/azure-mg-sub-governance-reporting) ⭐ 988 | 🐛 4 | 🌐 PowerShell | 📅 2026-09-11
 * [globalbao/azure-policy-as-code](https://github.com/globalbao/azure-policy-as-code) ⭐ 186 | 🐛 4 | 🌐 HCL | 📅 2024-04-20
 * [salesforce/cloud-guardrails](https://github.com/salesforce/cloud-guardrails) ⚠️ Archived
 * [gettek/terraform-azurerm-policy-as-code](https://github.com/gettek/terraform-azurerm-policy-as-code) ⭐ 173 | 🐛 0 | 🌐 HCL | 📅 2026-08-20
@@ -509,4 +487,4 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
