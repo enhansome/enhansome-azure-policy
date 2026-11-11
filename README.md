@@ -23,7 +23,7 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 * [Design Azure Policy as Code workflows](https://learn.microsoft.com/en-us/azure/governance/policy/concepts/policy-as-code)
 * [Enterprise Policy As Code (EPAC)](https://azure.github.io/enterprise-azure-policy-as-code/)
 * [Get compliance data of Azure resources](https://learn.microsoft.com/en-us/azure/governance/policy/how-to/get-compliance-data)
-* [Policies included in Azure Landing Zones reference implementations](https://github.com/Azure/Enterprise-Scale/blob/main/docs/ESLZ-Policies.md) ⭐ 1,968 | 🐛 11 | 🌐 PowerShell | 📅 2026-11-10
+* [Policies included in Azure Landing Zones reference implementations](https://github.com/Azure/Enterprise-Scale/blob/main/docs/ESLZ-Policies.md) ⭐ 1,968 | 🐛 11 | 🌐 PowerShell | 📅 2026-11-11
 * [Secure your cluster with Azure Policy](https://docs.microsoft.com/en-us/azure/aks/use-azure-policy?toc=/azure/governance/policy/toc.json\&bc=/azure/governance/policy/breadcrumb/toc.json)
 * [Remediate non-compliant resources with Azure Policy](https://learn.microsoft.com/en-us/azure/governance/policy/how-to/remediate-resources?tabs=azure-portal)
 * [Safe deployment of Azure Policy assignments](https://learn.microsoft.com/en-us/azure/governance/policy/how-to/policy-safe-deployment-practices)
@@ -154,9 +154,9 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 
 ## Microsoft Repositories and Tools
 
-* [azure/azure-policy](https://github.com/azure/azure-policy) ⭐ 1,695 | 🐛 324 | 🌐 Open Policy Agent | 📅 2026-10-28
+* [azure/azure-policy](https://github.com/azure/azure-policy) ⭐ 1,696 | 🐛 324 | 🌐 Open Policy Agent | 📅 2026-10-28
 * [azure/community-policy](https://github.com/azure/community-policy) ⭐ 711 | 🐛 6 | 🌐 Open Policy Agent | 📅 2026-10-19
-* [azure/enterprise-azure-policy-as-code](https://github.com/azure/enterprise-azure-policy-as-code) ⭐ 559 | 🐛 19 | 🌐 PowerShell | 📅 2026-11-09
+* [azure/enterprise-azure-policy-as-code](https://github.com/azure/enterprise-azure-policy-as-code) ⭐ 561 | 🐛 24 | 🌐 PowerShell | 📅 2026-11-09
 * [azure/azure-landing-zones-library](https://github.com/Azure/Azure-Landing-Zones-Library) ⭐ 160 | 🐛 4 | 🌐 PowerShell | 📅 2026-11-06
 * [azure/policy-compliance-scan](https://github.com/azure/policy-compliance-scan) ⭐ 66 | 🐛 16 | 🌐 JavaScript | 📅 2024-08-10
 * [azure/manage-azure-policy](https://github.com/azure/manage-azure-policy) ⚠️ Archived
@@ -457,7 +457,7 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 * [fawohlsc/azure-policy-testing](https://github.com/fawohlsc/azure-policy-testing) ⭐ 116 | 🐛 6 | 🌐 PowerShell | 📅 2024-01-18
 * [jimgbritt/azurepolicy](https://github.com/jimgbritt/azurepolicy) ⭐ 111 | 🐛 7 | 🌐 PowerShell | 📅 2023-03-14
 * [matthiasguentert/azure-naming-convention-initiative](https://github.com/matthiasguentert/azure-naming-convention-initiative) ⭐ 53 | 🐛 0 | 🌐 Bicep | 📅 2025-09-26
-* [andrewmatveychuk/azure.policy](https://github.com/andrewmatveychuk/azure.policy) ⭐ 49 | 🐛 0 | 🌐 Bicep | 📅 2025-11-03
+* [andrewmatveychuk/azure.policy](https://github.com/andrewmatveychuk/azure.policy) ⭐ 50 | 🐛 0 | 🌐 Bicep | 📅 2025-11-03
 * [faridabharmal/azuregovernance](https://github.com/faridabharmal/azuregovernance) ⭐ 41 | 🐛 0 | 📅 2019-07-09
 * [ricmmartins/azure-governance-made-simple](https://github.com/ricmmartins/azure-governance-made-simple) ⭐ 40 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-20
 * [tyconsulting/azure.policy.monitor](https://github.com/tyconsulting/azure.policy.monitor) ⭐ 22 | 🐛 5 | 🌐 Bicep | 📅 2023-01-16
@@ -472,13 +472,13 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 * [siddharthtanna7/azpolicygenerator](https://github.com/siddharthtanna7/AzPolicyGenerator) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2025-04-23
 * [claranet/terraform-azurerm-policy](https://github.com/claranet/terraform-azurerm-policy) ⭐ 5 | 🐛 0 | 🌐 HCL | 📅 2026-11-09
 * [jtracey93/tf-az-dine-policy-assignment](https://github.com/jtracey93/tf-az-dine-policy-assignment) ⭐ 4 | 🐛 0 | 🌐 HCL | 📅 2021-02-03
-* [stefanrothnet/azure-policy](https://github.com/stefanrothnet/azure-policy) ⭐ 4 | 🐛 2 | 📅 2020-02-03
 * [charotamine/policytests](https://github.com/charotamine/policytests) ⭐ 3 | 🐛 0 | 🌐 HCL | 📅 2021-09-10
 * [john-joyner/azure-policy](https://github.com/john-joyner/azure-policy) ⭐ 3 | 🐛 0 | 📅 2025-11-14
 * [andrewcluey/terraform-azurerm-policy-definition](https://github.com/andrewcluey/terraform-azurerm-policy-definition) ⭐ 2 | 🐛 0 | 🌐 HCL | 📅 2021-06-14
 * [charotamine/azurepolicy\_bicep](https://github.com/charotamine/azurepolicy_bicep) ⭐ 1 | 🐛 0 | 🌐 Bicep | 📅 2021-09-23
 * [fawohlsc/azure-policy-samples](https://github.com/fawohlsc/azure-policy-samples) ⭐ 1 | 🐛 0 | 📅 2021-11-19
 * [yangdeal/azure\_policy\_deployment](https://github.com/yangdeal/azure_policy_deployment) ⭐ 0 | 🐛 0 | 🌐 HCL | 📅 2019-12-10
+* [stefanrothnet/azure-policy](https://github.com/stefanrothnet/azure-policy)
 
 ## Community Forums
 
@@ -487,4 +487,4 @@ A curated list of AWESOME blogs, videos, tutorials, code, tools, scripts. Anythi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._

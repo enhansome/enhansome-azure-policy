@@ -19,7 +19,7 @@
             "open_issues": 324,
             "owner": "Azure",
             "repo": "azure-policy",
-            "stars": 1695,
+            "stars": 1696,
             "topics": [
               "azure",
               "policy"
@@ -61,10 +61,10 @@
             "language": "PowerShell",
             "license": "MIT",
             "last_commit": "2026-11-09T05:51:31Z",
-            "open_issues": 19,
+            "open_issues": 24,
             "owner": "Azure",
             "repo": "enterprise-azure-policy-as-code",
-            "stars": 559,
+            "stars": 561,
             "topics": [
               "azure",
               "azure-pipeline",
@@ -493,7 +493,7 @@
             "open_issues": 0,
             "owner": "andrewmatveychuk",
             "repo": "azure.policy",
-            "stars": 49,
+            "stars": 50,
             "topics": [
               "arm-templates",
               "azure",
@@ -821,27 +821,6 @@
         },
         {
           "node_type": "item",
-          "title": "stefanrothnet/azure-policy",
-          "description": "stefanrothnet/azure-policy",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 211537842,
-            "language": null,
-            "license": null,
-            "last_commit": "2020-02-03T20:20:55Z",
-            "open_issues": 2,
-            "owner": "stefanrothnet",
-            "repo": "azure-policy",
-            "stars": 4,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:59:12.107Z"
-        },
-        {
-          "node_type": "item",
           "title": "charotamine/policytests",
           "description": "charotAmine/policyTests",
           "children": [],
@@ -975,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T17:16:06.913Z",
+    "last_updated": "2026-11-11T17:25:33.315Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon",
@@ -987,7 +966,7 @@
       "open_issues": 0,
       "owner": "globalbao",
       "repo": "awesome-azure-policy",
-      "stars": 552,
+      "stars": 553,
       "topics": [
         "awesome",
         "awesome-list",
