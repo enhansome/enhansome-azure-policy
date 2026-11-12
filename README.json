@@ -60,8 +60,8 @@
             "id": 337162838,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-11-09T05:51:31Z",
-            "open_issues": 24,
+            "last_commit": "2026-11-12T13:31:37Z",
+            "open_issues": 22,
             "owner": "Azure",
             "repo": "enterprise-azure-policy-as-code",
             "stars": 561,
@@ -120,7 +120,7 @@
             "open_issues": 16,
             "owner": "Azure",
             "repo": "policy-compliance-scan",
-            "stars": 66,
+            "stars": 67,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
@@ -204,7 +204,7 @@
             "open_issues": 21,
             "owner": "Azure",
             "repo": "azure-policy-linter",
-            "stars": 29,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-10-08T16:54:58.603Z"
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T17:25:33.315Z",
+    "last_updated": "2026-11-12T17:43:26.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon",
