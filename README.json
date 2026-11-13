@@ -43,7 +43,7 @@
             "open_issues": 6,
             "owner": "Azure",
             "repo": "Community-Policy",
-            "stars": 711,
+            "stars": 710,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
@@ -61,7 +61,7 @@
             "language": "PowerShell",
             "license": "MIT",
             "last_commit": "2026-11-12T13:31:37Z",
-            "open_issues": 22,
+            "open_issues": 24,
             "owner": "Azure",
             "repo": "enterprise-azure-policy-as-code",
             "stars": 561,
@@ -779,7 +779,7 @@
             "id": 221944750,
             "language": "HCL",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T18:57:27Z",
+            "last_commit": "2026-11-12T21:41:27Z",
             "open_issues": 0,
             "owner": "claranet",
             "repo": "terraform-azurerm-policy",
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T17:43:26.224Z",
+    "last_updated": "2026-11-13T17:21:43.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon",
