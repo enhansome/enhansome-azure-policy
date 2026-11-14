@@ -273,7 +273,7 @@
             "open_issues": 4,
             "owner": "JulianHayward",
             "repo": "Azure-MG-Sub-Governance-Reporting",
-            "stars": 988,
+            "stars": 987,
             "topics": [
               "azure",
               "azure-policies",
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T17:21:43.560Z",
+    "last_updated": "2026-11-14T16:05:16.123Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon",
