@@ -16,10 +16,10 @@
             "language": "Open Policy Agent",
             "license": "MIT",
             "last_commit": "2026-10-28T18:31:12Z",
-            "open_issues": 324,
+            "open_issues": 325,
             "owner": "Azure",
             "repo": "azure-policy",
-            "stars": 1696,
+            "stars": 1695,
             "topics": [
               "azure",
               "policy"
@@ -43,7 +43,7 @@
             "open_issues": 6,
             "owner": "Azure",
             "repo": "Community-Policy",
-            "stars": 709,
+            "stars": 708,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.107Z"
@@ -60,8 +60,8 @@
             "id": 337162838,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-11-16T00:29:14Z",
-            "open_issues": 22,
+            "last_commit": "2026-11-19T06:51:20Z",
+            "open_issues": 19,
             "owner": "Azure",
             "repo": "enterprise-azure-policy-as-code",
             "stars": 561,
@@ -88,8 +88,8 @@
             "id": 764046303,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-11-06T08:49:16Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-19T13:55:22Z",
+            "open_issues": 6,
             "owner": "Azure",
             "repo": "Azure-Landing-Zones-Library",
             "stars": 160,
@@ -200,8 +200,8 @@
             "id": 1157425580,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-18T13:13:57Z",
-            "open_issues": 22,
+            "last_commit": "2026-11-19T18:19:41Z",
+            "open_issues": 20,
             "owner": "Azure",
             "repo": "azure-policy-linter",
             "stars": 30,
@@ -273,7 +273,7 @@
             "open_issues": 4,
             "owner": "JulianHayward",
             "repo": "Azure-MG-Sub-Governance-Reporting",
-            "stars": 987,
+            "stars": 986,
             "topics": [
               "azure",
               "azure-policies",
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T18:21:55.066Z",
+    "last_updated": "2026-11-19T18:38:29.298Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon",
